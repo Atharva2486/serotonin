@@ -1,6 +1,6 @@
 import { Sparkles } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import { useToast } from "@/hooks/use-toast";
+import { useNavigate } from "react-router-dom";
 
 interface Movie {
   id: number;
@@ -15,46 +15,28 @@ interface FloatingButtonProps {
 }
 
 export const FloatingButton = ({ selectedMovies }: FloatingButtonProps) => {
-  const { toast } = useToast();
+  const navigate = useNavigate();
 
   const handleGetSuggestions = async () => {
     if (selectedMovies.length === 0) {
-      toast({
-        title: "No movies selected",
-        description: "Please select some movies to get suggestions.",
-        variant: "destructive",
-      });
       return;
     }
 
     const movieIds = selectedMovies.map(movie => movie.id);
     
-    try {
-      // This would normally be your backend endpoint
-      const response = await fetch('/api/suggestions', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify({
-          movie_ids: movieIds
-        }),
-      });
+    // Store data in dataset.json format
+    const submissionData = {
+      timestamp: new Date().toISOString(),
+      ip_address: "127.0.0.1", // In a real app, this would come from the server
+      movie_ids: movieIds
+    };
 
-      if (response.ok) {
-        toast({
-          title: "Suggestions requested!",
-          description: `Processing suggestions for ${selectedMovies.length} movies...`,
-        });
-      } else {
-        throw new Error('Failed to get suggestions');
-      }
-    } catch (error) {
-      toast({
-        title: "Demo Mode",
-        description: `Would send ${selectedMovies.length} movie IDs: [${movieIds.join(', ')}] to backend for suggestions.`,
-      });
-    }
+    // In a real app, this would be sent to a backend endpoint
+    // For demo purposes, we'll just log it and navigate
+    console.log("Storing submission:", submissionData);
+    
+    // Navigate to thank you page
+    navigate("/thank-you");
   };
 
   return (
