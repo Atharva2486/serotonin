@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "title": "Blade Runner 2049",
+    "year": 2017,
+    "genres": ["Action", "Drama", "Sci-Fi"],
+    "poster": "Blade Runner 2049 (2017).jpg"
+  },
+  {
+    "id": 2,
+    "title": "Dune",
+    "year": 2021,
+    "genres": ["Adventure", "Drama", "Sci-Fi"],
+    "poster": "Dune (2021).jpg"
+  },
+  {
+    "id": 3,
+    "title": "The Matrix",
+    "year": 1999,
+    "genres": ["Action", "Sci-Fi", "Thriller"],
+    "poster": "The Matrix (1999).jpg"
+  },
+  {
+    "id": 4,
+    "title": "Interstellar",
+    "year": 2014,
+    "genres": ["Adventure", "Drama", "Sci-Fi"],
+    "poster": "Interstellar (2014).jpg"
+  },
+  {
+    "id": 5,
+    "title": "Tron Legacy",
+    "year": 2010,
+    "genres": ["Action", "Adventure", "Sci-Fi"],
+    "poster": "Tron Legacy (2010).jpg"
+  },
+  {
+    "id": 6,
+    "title": "Ghost in the Shell",
+    "year": 2017,
+    "genres": ["Action", "Crime", "Drama"],
+    "poster": "Ghost in the Shell (2017).jpg"
+  },
+  {
+    "id": 7,
+    "title": "Ex Machina",
+    "year": 2014,
+    "genres": ["Drama", "Sci-Fi", "Thriller"],
+    "poster": "Ex Machina (2014).jpg"
+  },
+  {
+    "id": 8,
+    "title": "Cyberpunk 2077",
+    "year": 2020,
+    "genres": ["Action", "Adventure", "Sci-Fi"],
+    "poster": "Cyberpunk 2077 (2020).jpg"
+  },
+  {
+    "id": 9,
+    "title": "Alita Battle Angel",
+    "year": 2019,
+    "genres": ["Action", "Adventure", "Sci-Fi"],
+    "poster": "Alita Battle Angel (2019).jpg"
+  },
+  {
+    "id": 10,
+    "title": "Ready Player One",
+    "year": 2018,
+    "genres": ["Action", "Adventure", "Sci-Fi"],
+    "poster": "Ready Player One (2018).jpg"
+  },
+  {
+    "id": 11,
+    "title": "The Dark Knight",
+    "year": 2008,
+    "genres": ["Action", "Crime", "Drama"],
+    "poster": "The Dark Knight (2008).jpg"
+  },
+  {
+    "id": 12,
+    "title": "Inception",
+    "year": 2010,
+    "genres": ["Action", "Adventure", "Sci-Fi"],
+    "poster": "Inception (2010).jpg"
+  },
+  {
+    "id": 13,
+    "title": "Mad Max Fury Road",
+    "year": 2015,
+    "genres": ["Action", "Adventure", "Sci-Fi"],
+    "poster": "Mad Max Fury Road (2015).jpg"
+  },
+  {
+    "id": 14,
+    "title": "Spider-Man Into the Spider-Verse",
+    "year": 2018,
+    "genres": ["Animation", "Action", "Adventure"],
+    "poster": "Spider-Man Into the Spider-Verse (2018).jpg"
+  },
+  {
+    "id": 15,
+    "title": "Akira",
+    "year": 1988,
+    "genres": ["Animation", "Action", "Drama"],
+    "poster": "Akira (1988).jpg"
+  },
+  {
+    "id": 16,
+    "title": "Her",
+    "year": 2013,
+    "genres": ["Drama", "Romance", "Sci-Fi"],
+    "poster": "Her (2013).jpg"
+  },
+  {
+    "id": 17,
+    "title": "Arrival",
+    "year": 2016,
+    "genres": ["Drama", "Sci-Fi", "Thriller"],
+    "poster": "Arrival (2016).jpg"
+  },
+  {
+    "id": 18,
+    "title": "The Fifth Element",
+    "year": 1997,
+    "genres": ["Action", "Adventure", "Sci-Fi"],
+    "poster": "The Fifth Element (1997).jpg"
+  }
+]
