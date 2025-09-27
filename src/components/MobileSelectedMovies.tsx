@@ -46,27 +46,25 @@ export const MobileSelectedMovies = ({ selectedMovies, onDeselectMovie }: Mobile
           <SheetTitle className="text-left">Selected Movies ({selectedMovies.length})</SheetTitle>
         </SheetHeader>
         
-        <div className="mt-6 max-h-64 overflow-y-auto">
-          <div className="flex flex-wrap gap-2">
-            {selectedMovies.map((movie) => (
-              <div
-                key={movie.id}
-                className="flex items-center gap-2 bg-card/50 backdrop-blur-sm border border-primary/20 rounded-full px-4 py-2 text-sm animate-movie-appear"
+        <div className="mt-6 space-y-3 max-h-64 overflow-y-auto">
+          {selectedMovies.map((movie) => (
+            <div
+              key={movie.id}
+              className="flex items-center justify-between bg-card/30 backdrop-blur-sm border border-primary/10 rounded-lg px-4 py-3"
+            >
+              <span className="text-foreground text-sm">
+                {movie.title} ({movie.year})
+              </span>
+              <Button
+                variant="ghost"
+                size="sm"
+                onClick={() => onDeselectMovie(movie.id)}
+                className="h-8 w-8 p-0 rounded-full hover:bg-destructive/20 hover:text-destructive transition-colors"
               >
-                <span className="text-foreground">
-                  {movie.title} ({movie.year})
-                </span>
-                <Button
-                  variant="ghost"
-                  size="sm"
-                  onClick={() => onDeselectMovie(movie.id)}
-                  className="h-5 w-5 p-0 rounded-full hover:bg-destructive/20 hover:text-destructive transition-colors"
-                >
-                  <X className="h-3 w-3" />
-                </Button>
-              </div>
-            ))}
-          </div>
+                <X className="h-4 w-4" />
+              </Button>
+            </div>
+          ))}
         </div>
       </SheetContent>
     </Sheet>

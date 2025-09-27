@@ -2,11 +2,9 @@ import { useState, useMemo } from "react";
 import { useIsMobile } from "@/hooks/use-mobile";
 import { SearchBar } from "@/components/SearchBar";
 import { GenreFilter } from "@/components/GenreFilter";
-import { YearFilter } from "@/components/YearFilter";
-import { ClearFiltersButton } from "@/components/ClearFiltersButton";
 import { SelectedMovies } from "@/components/SelectedMovies";
 import { MobileSelectedMovies } from "@/components/MobileSelectedMovies";
-import { VirtualizedMovieGrid } from "@/components/VirtualizedMovieGrid";
+import { MovieGrid } from "@/components/MovieGrid";
 import { FloatingButton } from "@/components/FloatingButton";
 import moviesData from "@/data/movies.json";
 
@@ -21,22 +19,19 @@ interface Movie {
 const Index = () => {
   const [searchTerm, setSearchTerm] = useState("");
   const [selectedGenres, setSelectedGenres] = useState<string[]>([]);
-  const [yearRange, setYearRange] = useState<{ min: number | null; max: number | null }>({ min: null, max: null });
   const [selectedMovies, setSelectedMovies] = useState<Movie[]>([]);
   const isMobile = useIsMobile();
 
-  // Filter movies based on search term, selected genres, and year range
+  // Filter movies based on search term and selected genres
   const filteredMovies = useMemo(() => {
     return moviesData.filter((movie) => {
       const matchesSearch = movie.title.toLowerCase().includes(searchTerm.toLowerCase());
       const matchesGenres = selectedGenres.length === 0 || 
         selectedGenres.some(genre => movie.genres.includes(genre));
-      const matchesYearRange = (yearRange.min === null || movie.year >= yearRange.min) &&
-        (yearRange.max === null || movie.year <= yearRange.max);
       
-      return matchesSearch && matchesGenres && matchesYearRange;
+      return matchesSearch && matchesGenres;
     });
-  }, [searchTerm, selectedGenres, yearRange]);
+  }, [searchTerm, selectedGenres]);
 
   const handleGenreToggle = (genre: string) => {
     setSelectedGenres(prev => 
@@ -54,16 +49,6 @@ const Index = () => {
     setSelectedMovies(prev => prev.filter(movie => movie.id !== movieId));
   };
 
-  const handleClearAllFilters = () => {
-    setSearchTerm("");
-    setSelectedGenres([]);
-    setYearRange({ min: null, max: null });
-    setSelectedMovies([]);
-  };
-
-  const hasFilters = searchTerm !== "" || selectedGenres.length > 0 || 
-    yearRange.min !== null || yearRange.max !== null || selectedMovies.length > 0;
-
   const selectedMovieIds = selectedMovies.map(movie => movie.id);
 
   return (
@@ -79,21 +64,15 @@ const Index = () => {
           </p>
         </div>
 
-        {/* Search and Filter - Sticky on scroll */}
-        <div className="sticky top-0 z-40 bg-background/95 backdrop-blur-md border-b border-primary/20 pb-4 mb-8">
-          <div className="flex flex-col sm:flex-row gap-4">
-            <SearchBar searchTerm={searchTerm} onSearchChange={setSearchTerm} />
-            <div className="flex flex-wrap gap-2">
-              <GenreFilter selectedGenres={selectedGenres} onGenreToggle={handleGenreToggle} />
-              <YearFilter yearRange={yearRange} onYearRangeChange={setYearRange} />
-              <ClearFiltersButton onClearAll={handleClearAllFilters} hasFilters={hasFilters} />
-            </div>
-          </div>
+        {/* Search and Filter */}
+        <div className="flex flex-col sm:flex-row gap-4 mb-8">
+          <SearchBar searchTerm={searchTerm} onSearchChange={setSearchTerm} />
+          <GenreFilter selectedGenres={selectedGenres} onGenreToggle={handleGenreToggle} />
         </div>
 
-        {/* Selected Movies - Desktop (Sticky) */}
+        {/* Selected Movies - Desktop */}
         {!isMobile && (
-          <div className="sticky top-24 z-30 bg-background/95 backdrop-blur-md border-b border-primary/10 pb-6 mb-8">
+          <div className="mb-8">
             <SelectedMovies 
               selectedMovies={selectedMovies} 
               onDeselectMovie={handleMovieDeselect} 
@@ -120,7 +99,7 @@ const Index = () => {
             </span>
           </div>
           
-          <VirtualizedMovieGrid 
+          <MovieGrid 
             movies={filteredMovies}
             selectedMovieIds={selectedMovieIds}
             onMovieSelect={handleMovieSelect}
