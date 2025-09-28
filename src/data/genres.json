@@ -1,10 +1,8 @@
 [
   "Action",
   "Adventure",
-  "Animation",
   "Comedy",
   "Crime",
-  "Documentary",
   "Drama",
   "Family",
   "Fantasy",
@@ -14,7 +12,6 @@
   "Mystery",
   "Romance",
   "Science Fiction",
-  "TV Movie",
   "Thriller",
   "War"
 ]
