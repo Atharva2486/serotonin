@@ -24,34 +24,28 @@ export const FloatingButton = ({ selectedMovies }: FloatingButtonProps) => {
 
     const movieIds = selectedMovies.map(movie => movie.id);
     
-    // Store data in dataset.json format
-    
     try {
-    const response = await fetch('/api/suggestions', {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-      },
-      body: JSON.stringify({
-        movie_ids: movieIds
-      }),
-    });
+      const response = await fetch('/api/suggestions', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          movie_ids: movieIds
+        }),
+      });
 
-    if (response.ok) {
-      const result = await response.json();
-      console.log("Storing submission:", submissionData);
-      console.log('Success:', result.message);
-      navigate("/thank-you");
-    } else {
-      throw new Error('Failed to save suggestions');
+      if (response.ok) {
+        const result = await response.json();
+        console.log('Success:', result.message);
+        navigate("/thank-you"); // Redirect to the new thank you page
+      } else {
+        throw new Error('Failed to save suggestions');
+      }
+    } catch (error) {
+      console.error("Error saving suggestions:", error);
+      alert("Sorry, we couldn't save your selections at this time.");
     }
-  } catch (error) {
-    console.error("Error saving suggestions:", error);
-    alert("Sorry, we couldn't save your selections at this time.");
-  }
-
-
-    
   };
 
   return (
