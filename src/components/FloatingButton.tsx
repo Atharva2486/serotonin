@@ -25,18 +25,33 @@ export const FloatingButton = ({ selectedMovies }: FloatingButtonProps) => {
     const movieIds = selectedMovies.map(movie => movie.id);
     
     // Store data in dataset.json format
-    const submissionData = {
-      timestamp: new Date().toISOString(),
-      ip_address: "127.0.0.1", // In a real app, this would come from the server
-      movie_ids: movieIds
-    };
-
-    // In a real app, this would be sent to a backend endpoint
-    // For demo purposes, we'll just log it and navigate
-    console.log("Storing submission:", submissionData);
     
-    // Navigate to thank you page
-    navigate("/thank-you");
+    try {
+    const response = await fetch('/api/suggestions', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({
+        movie_ids: movieIds
+      }),
+    });
+
+    if (response.ok) {
+      const result = await response.json();
+      console.log("Storing submission:", submissionData);
+      console.log('Success:', result.message);
+      navigate("/thank-you");
+    } else {
+      throw new Error('Failed to save suggestions');
+    }
+  } catch (error) {
+    console.error("Error saving suggestions:", error);
+    alert("Sorry, we couldn't save your selections at this time.");
+  }
+
+
+    
   };
 
   return (
