@@ -1,7 +1,7 @@
 import { useState, useMemo } from "react";
 import { useIsMobile } from "@/hooks/use-mobile";
 import { SearchBar } from "@/components/SearchBar";
-import { GenreFilter } from "@/components/GenreFilter";
+import { CombinedFilter } from "@/components/CombinedFilter";
 import { SelectedMovies } from "@/components/SelectedMovies";
 import { MobileSelectedMovies } from "@/components/MobileSelectedMovies";
 import { MovieGrid } from "@/components/MovieGrid";
@@ -22,16 +22,28 @@ const Index = () => {
   const [selectedMovies, setSelectedMovies] = useState<Movie[]>([]);
   const isMobile = useIsMobile();
 
-  // Filter movies based on search term and selected genres
+  // Calculate min and max years from the data
+  const { minYear, maxYear } = useMemo(() => {
+    const years = moviesData.map(movie => movie.year);
+    return {
+      minYear: Math.min(...years),
+      maxYear: Math.max(...years)
+    };
+  }, []);
+
+  const [yearRange, setYearRange] = useState<[number, number]>([minYear, maxYear]);
+
+  // Filter movies based on search term, selected genres, and year range
   const filteredMovies = useMemo(() => {
     return moviesData.filter((movie) => {
       const matchesSearch = movie.title.toLowerCase().includes(searchTerm.toLowerCase());
       const matchesGenres = selectedGenres.length === 0 || 
         selectedGenres.some(genre => movie.genres.includes(genre));
+      const matchesYear = movie.year >= yearRange[0] && movie.year <= yearRange[1];
       
-      return matchesSearch && matchesGenres;
+      return matchesSearch && matchesGenres && matchesYear;
     });
-  }, [searchTerm, selectedGenres]);
+  }, [searchTerm, selectedGenres, yearRange]);
 
   const handleGenreToggle = (genre: string) => {
     setSelectedGenres(prev => 
@@ -67,7 +79,14 @@ const Index = () => {
         {/* Search and Filter */}
         <div className="flex flex-col sm:flex-row gap-4 mb-8">
           <SearchBar searchTerm={searchTerm} onSearchChange={setSearchTerm} />
-          <GenreFilter selectedGenres={selectedGenres} onGenreToggle={handleGenreToggle} />
+          <CombinedFilter 
+            selectedGenres={selectedGenres} 
+            onGenreToggle={handleGenreToggle}
+            yearRange={yearRange}
+            onYearRangeChange={setYearRange}
+            minYear={minYear}
+            maxYear={maxYear}
+          />
         </div>
 
         {/* Selected Movies - Desktop */}
