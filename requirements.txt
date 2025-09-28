@@ -1,2 +1,4 @@
 Flask
 vercel-blob
+requests
+
