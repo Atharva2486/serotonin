@@ -1,10 +1,20 @@
 [
   "Action",
-  "Adventure", 
+  "Adventure",
   "Animation",
+  "Comedy",
   "Crime",
+  "Documentary",
   "Drama",
+  "Family",
+  "Fantasy",
+  "History",
+  "Horror",
+  "Music",
+  "Mystery",
   "Romance",
-  "Sci-Fi",
-  "Thriller"
+  "Science Fiction",
+  "TV Movie",
+  "Thriller",
+  "War"
 ]
