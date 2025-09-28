@@ -11,31 +11,31 @@ def handle_suggestions():
     data = request.get_json()
     movie_ids = data.get('movie_ids', [])
     
-    # Get the user's IP address from Vercel's request headers
-    ip_address = request.headers.get('X-Forwarded-For', request.remote_addr)
-    
-    # Create a unique timestamp
+    ip_address = request.headers.get('X-Forward-For', request.remote_addr)
     timestamp = datetime.now().isoformat()
     
-    # The data for this specific submission
     new_entry = {
         "timestamp": timestamp,
         "ip_address": ip_address,
         "movie_ids": movie_ids
     }
     
-    # Convert the data to a JSON string
+    # Convert the dictionary to a JSON string
     json_content = json.dumps(new_entry, indent=4)
     
-    # Create a unique filename, e.g., "selections/2023-10-27T10:30:00_192.168.1.1.json"
+    # --- THIS IS THE FIX ---
+    # Encode the string into bytes, which is what the `put` function expects
+    body_as_bytes = json_content.encode('utf-8')
+    # --------------------
+    
     filename = f"selections/{timestamp}_{ip_address}.json"
     
     try:
-        # Correctly call the put function with positional arguments
+        # Pass the encoded bytes to the `put` function
         blob = put(
-            filename,           # First argument: the path/filename
-            json_content,       # Second argument: the file content
-            { 'Content-Type': 'application/json' } # Third argument: options
+            filename,
+            body_as_bytes, # Use the bytes object here
+            { 'Content-Type': 'application/json' }
         )
         print(f"Successfully uploaded selection to: {blob.get('url')}")
         
