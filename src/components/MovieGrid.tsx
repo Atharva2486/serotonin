@@ -29,7 +29,9 @@ export const MovieGrid = ({ movies, selectedMovieIds, onMovieSelect }: MovieGrid
     }, 500);
   };
 
-  const visibleMovies = movies.filter(movie => !selectedMovieIds.includes(movie.id));
+  const visibleMovies = movies
+    .filter(movie => !selectedMovieIds.includes(movie.id))
+    .sort((a, b) => a.year - b.year);
 
   return (
     <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 2xl:grid-cols-8 gap-4">

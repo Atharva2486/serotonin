@@ -12,11 +12,15 @@ const ThankYou = () => {
           <CheckCircle className="h-16 w-16 text-primary mx-auto mb-6" />
           
           <h1 className="text-4xl font-bold bg-gradient-neon bg-clip-text text-transparent mb-6">
-            Thank You!
+            Thank You
           </h1>
           
-          <p className="text-xl text-muted-foreground mb-8 leading-relaxed">
-            Thank you for submitting your favorite movies. Bollywood movies' dataset is not prepared yet.
+          <p className="text-xl text-muted-foreground mb-4 leading-relaxed">
+            Your response is successfully recorded.
+          </p>
+          
+          <p className="text-lg text-muted-foreground mb-8 leading-relaxed">
+            This data will be used to train a recommendation model.
           </p>
           
           <Button
