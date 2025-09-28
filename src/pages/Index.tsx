@@ -31,19 +31,19 @@ const Index = () => {
     };
   }, []);
 
-  const [yearRange, setYearRange] = useState<[number, number]>([minYear, maxYear]);
+  const [maxYearFilter, setMaxYearFilter] = useState<number>(maxYear);
 
-  // Filter movies based on search term, selected genres, and year range
+  // Filter movies based on search term, selected genres, and max year
   const filteredMovies = useMemo(() => {
     return moviesData.filter((movie) => {
       const matchesSearch = movie.title.toLowerCase().includes(searchTerm.toLowerCase());
       const matchesGenres = selectedGenres.length === 0 || 
         selectedGenres.some(genre => movie.genres.includes(genre));
-      const matchesYear = movie.year >= yearRange[0] && movie.year <= yearRange[1];
+      const matchesYear = movie.year <= maxYearFilter;
       
       return matchesSearch && matchesGenres && matchesYear;
     });
-  }, [searchTerm, selectedGenres, yearRange]);
+  }, [searchTerm, selectedGenres, maxYearFilter]);
 
   const handleGenreToggle = (genre: string) => {
     setSelectedGenres(prev => 
@@ -82,8 +82,8 @@ const Index = () => {
           <CombinedFilter 
             selectedGenres={selectedGenres} 
             onGenreToggle={handleGenreToggle}
-            yearRange={yearRange}
-            onYearRangeChange={setYearRange}
+            maxYearFilter={maxYearFilter}
+            onMaxYearChange={setMaxYearFilter}
             minYear={minYear}
             maxYear={maxYear}
           />

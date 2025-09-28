@@ -13,8 +13,8 @@ import genresData from "@/data/genres.json";
 interface CombinedFilterProps {
   selectedGenres: string[];
   onGenreToggle: (genre: string) => void;
-  yearRange: [number, number];
-  onYearRangeChange: (range: [number, number]) => void;
+  maxYearFilter: number;
+  onMaxYearChange: (maxYear: number) => void;
   minYear: number;
   maxYear: number;
 }
@@ -22,18 +22,18 @@ interface CombinedFilterProps {
 export const CombinedFilter = ({ 
   selectedGenres, 
   onGenreToggle, 
-  yearRange, 
-  onYearRangeChange,
+  maxYearFilter, 
+  onMaxYearChange,
   minYear,
   maxYear
 }: CombinedFilterProps) => {
   const [isOpen, setIsOpen] = useState(false);
 
   const handleSliderChange = (values: number[]) => {
-    onYearRangeChange([values[0], values[1]]);
+    onMaxYearChange(values[0]);
   };
 
-  const isFiltered = selectedGenres.length > 0 || yearRange[0] !== minYear || yearRange[1] !== maxYear;
+  const isFiltered = selectedGenres.length > 0 || maxYearFilter !== maxYear;
 
   return (
     <Popover open={isOpen} onOpenChange={setIsOpen}>
@@ -46,26 +46,25 @@ export const CombinedFilter = ({
           Filters
           {isFiltered && (
             <span className="ml-2 bg-primary text-primary-foreground rounded-full px-2 py-1 text-xs">
-              {selectedGenres.length + (yearRange[0] !== minYear || yearRange[1] !== maxYear ? 1 : 0)}
+              {selectedGenres.length + (maxYearFilter !== maxYear ? 1 : 0)}
             </span>
           )}
         </Button>
       </PopoverTrigger>
       <PopoverContent align="end" className="w-80 glass-panel border-primary/20">
         <div className="space-y-6">
-          {/* Year Range Filter */}
+          {/* Year Filter */}
           <div className="space-y-4">
             <div className="flex items-center gap-2">
               <Calendar className="h-4 w-4 text-primary" />
-              <h4 className="font-medium text-foreground">Release Year</h4>
+              <h4 className="font-medium text-foreground">Max Release Year</h4>
             </div>
             <div className="space-y-3">
               <div className="flex justify-between text-sm text-muted-foreground">
-                <span>{yearRange[0]}</span>
-                <span>{yearRange[1]}</span>
+                <span>Up to: {maxYearFilter}</span>
               </div>
               <Slider
-                value={[yearRange[0], yearRange[1]]}
+                value={[maxYearFilter]}
                 onValueChange={handleSliderChange}
                 min={minYear}
                 max={maxYear}
