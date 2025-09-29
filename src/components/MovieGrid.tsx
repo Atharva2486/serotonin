@@ -34,7 +34,7 @@ export const MovieGrid = ({ movies, selectedMovieIds, onMovieSelect }: MovieGrid
     .sort((a, b) => b.year - a.year);
 
   return (
-    <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 2xl:grid-cols-8 gap-4">
+    <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 lg:grid-cols-6 xl:grid-cols-8 2xl:grid-cols-10 gap-4">
       {visibleMovies.map((movie) => (
         <div
           key={movie.id}
