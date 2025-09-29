@@ -1,0 +1,3799 @@
+[
+  {
+    "id": 1,
+    "title": "Hum Aapke Hain Koun..!",
+    "year": 1994,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "poster": "Hum Aapke Hain Koun..! (1994).jpg"
+  },
+  {
+    "id": 2,
+    "title": "Krantiveer",
+    "year": 1994,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "poster": "Krantiveer (1994).jpg"
+  },
+  {
+    "id": 3,
+    "title": "Raja Babu",
+    "year": 1994,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "poster": "Raja Babu (1994).jpg"
+  },
+  {
+    "id": 4,
+    "title": "Main Khiladi Tu Anari",
+    "year": 1994,
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "poster": "Main Khiladi Tu Anari (1994).jpg"
+  },
+  {
+    "id": 5,
+    "title": "Laadla",
+    "year": 1994,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Family"
+    ],
+    "poster": "Laadla (1994).jpg"
+  },
+  {
+    "id": 6,
+    "title": "Suhaag",
+    "year": 1994,
+    "genres": [],
+    "poster": "Suhaag (1994).jpg"
+  },
+  {
+    "id": 7,
+    "title": "Aatish",
+    "year": 1994,
+    "genres": [
+      "Action",
+      "Crime"
+    ],
+    "poster": "Aatish (1994).jpg"
+  },
+  {
+    "id": 8,
+    "title": "Vijaypath",
+    "year": 1994,
+    "genres": [
+      "Action",
+      "Drama",
+      "Romance"
+    ],
+    "poster": "Vijaypath (1994).jpg"
+  },
+  {
+    "id": 9,
+    "title": "Dilwale Dulhania Le Jayenge",
+    "year": 1995,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "poster": "Dilwale Dulhania Le Jayenge (1995).jpg"
+  },
+  {
+    "id": 10,
+    "title": "Karan Arjun",
+    "year": 1995,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "poster": "Karan Arjun (1995).jpg"
+  },
+  {
+    "id": 11,
+    "title": "Raja",
+    "year": 1995,
+    "genres": [
+      "Action",
+      "Romance"
+    ],
+    "poster": "Raja (1995).jpg"
+  },
+  {
+    "id": 12,
+    "title": "Rangeela",
+    "year": 1995,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "poster": "Rangeela (1995).jpg"
+  },
+  {
+    "id": 13,
+    "title": "Coolie No. 1",
+    "year": 1995,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "poster": "Coolie No. 1 (1995).jpg"
+  },
+  {
+    "id": 14,
+    "title": "Ram Jaane",
+    "year": 1995,
+    "genres": [
+      "Action",
+      "Crime"
+    ],
+    "poster": "Ram Jaane (1995).jpg"
+  },
+  {
+    "id": 15,
+    "title": "Trimurti",
+    "year": 1995,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "poster": "Trimurti (1995).jpg"
+  },
+  {
+    "id": 16,
+    "title": "Gambler",
+    "year": 1995,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Comedy"
+    ],
+    "poster": "Gambler (1995).jpg"
+  },
+  {
+    "id": 17,
+    "title": "Raja Hindustani",
+    "year": 1996,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "poster": "Raja Hindustani (1996).jpg"
+  },
+  {
+    "id": 18,
+    "title": "Agni Sakshi",
+    "year": 1996,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "poster": "Agni Sakshi (1996).jpg"
+  },
+  {
+    "id": 19,
+    "title": "Jeet",
+    "year": 1996,
+    "genres": [
+      "Action",
+      "Romance"
+    ],
+    "poster": "Jeet (1996).jpg"
+  },
+  {
+    "id": 20,
+    "title": "Ghatak: Lethal",
+    "year": 1996,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "poster": "Ghatak Lethal (1996).jpg"
+  },
+  {
+    "id": 21,
+    "title": "Khiladiyon Ka Khiladi",
+    "year": 1996,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "poster": "Khiladiyon Ka Khiladi (1996).jpg"
+  },
+  {
+    "id": 22,
+    "title": "Saajan Chale Sasural",
+    "year": 1996,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "poster": "Saajan Chale Sasural (1996).jpg"
+  },
+  {
+    "id": 23,
+    "title": "Jaan",
+    "year": 1996,
+    "genres": [
+      "Action",
+      "Romance"
+    ],
+    "poster": "Jaan (1996).jpg"
+  },
+  {
+    "id": 24,
+    "title": "Ajay",
+    "year": 1996,
+    "genres": [],
+    "poster": "Ajay (1996).jpg"
+  },
+  {
+    "id": 25,
+    "title": "Diljale",
+    "year": 1996,
+    "genres": [
+      "Action",
+      "Drama",
+      "Romance"
+    ],
+    "poster": "Diljale (1996).jpg"
+  },
+  {
+    "id": 26,
+    "title": "Border",
+    "year": 1997,
+    "genres": [
+      "Action",
+      "Drama",
+      "History",
+      "War",
+      "Romance"
+    ],
+    "poster": "Border (1997).jpg"
+  },
+  {
+    "id": 27,
+    "title": "Dil To Pagal Hai",
+    "year": 1997,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Comedy"
+    ],
+    "poster": "Dil To Pagal Hai (1997).jpg"
+  },
+  {
+    "id": 28,
+    "title": "Ziddi",
+    "year": 1997,
+    "genres": [
+      "Drama",
+      "Action"
+    ],
+    "poster": "Ziddi (1997).jpg"
+  },
+  {
+    "id": 29,
+    "title": "Gupt: The Hidden Truth",
+    "year": 1997,
+    "genres": [
+      "Thriller",
+      "Action",
+      "Romance"
+    ],
+    "poster": "Gupt The Hidden Truth (1997).jpg"
+  },
+  {
+    "id": 30,
+    "title": "Hero No. 1",
+    "year": 1997,
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Romance"
+    ],
+    "poster": "Hero No. 1 (1997).jpg"
+  },
+  {
+    "id": 31,
+    "title": "Koyla",
+    "year": 1997,
+    "genres": [
+      "Action"
+    ],
+    "poster": "Koyla (1997).jpg"
+  },
+  {
+    "id": 32,
+    "title": "Judaai",
+    "year": 1997,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Family"
+    ],
+    "poster": "Judaai (1997).jpg"
+  },
+  {
+    "id": 33,
+    "title": "Judwaa",
+    "year": 1997,
+    "genres": [
+      "Romance",
+      "Comedy",
+      "Action"
+    ],
+    "poster": "Judwaa (1997).jpg"
+  },
+  {
+    "id": 34,
+    "title": "Kuch Kuch Hota Hai",
+    "year": 1998,
+    "genres": [
+      "Romance",
+      "Drama",
+      "Comedy"
+    ],
+    "poster": "Kuch Kuch Hota Hai (1998).jpg"
+  },
+  {
+    "id": 35,
+    "title": "Pyaar To Hona Hi Tha",
+    "year": 1998,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "poster": "Pyaar To Hona Hi Tha (1998).jpg"
+  },
+  {
+    "id": 36,
+    "title": "Soldier",
+    "year": 1998,
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "poster": "Soldier (1998).jpg"
+  },
+  {
+    "id": 37,
+    "title": "Bade Miyan Chote Miyan",
+    "year": 1998,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Music"
+    ],
+    "poster": "Bade Miyan Chote Miyan (1998).jpg"
+  },
+  {
+    "id": 38,
+    "title": "Pyaar Kiya To Darna Kya",
+    "year": 1998,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "poster": "Pyaar Kiya To Darna Kya (1998).jpg"
+  },
+  {
+    "id": 39,
+    "title": "Ghulam",
+    "year": 1998,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Action"
+    ],
+    "poster": "Ghulam (1998).jpg"
+  },
+  {
+    "id": 40,
+    "title": "Dulhe Raja",
+    "year": 1998,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "poster": "Dulhe Raja (1998).jpg"
+  },
+  {
+    "id": 41,
+    "title": "Major Saab",
+    "year": 1998,
+    "genres": [
+      "Action",
+      "Drama",
+      "Romance"
+    ],
+    "poster": "Major Saab (1998).jpg"
+  },
+  {
+    "id": 42,
+    "title": "Bandhan",
+    "year": 1998,
+    "genres": [
+      "Family"
+    ],
+    "poster": "Bandhan (1998).jpg"
+  },
+  {
+    "id": 43,
+    "title": "Biwi No.1",
+    "year": 1999,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "poster": "Biwi No.1 (1999).jpg"
+  },
+  {
+    "id": 44,
+    "title": "Hum Dil De Chuke Sanam",
+    "year": 1999,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "poster": "Hum Dil De Chuke Sanam (1999).jpg"
+  },
+  {
+    "id": 45,
+    "title": "Taal",
+    "year": 1999,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "poster": "Taal (1999).jpg"
+  },
+  {
+    "id": 46,
+    "title": "Sarfarosh",
+    "year": 1999,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "poster": "Sarfarosh (1999).jpg"
+  },
+  {
+    "id": 48,
+    "title": "Mann",
+    "year": 1999,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "poster": "Mann (1999).jpg"
+  },
+  {
+    "id": 49,
+    "title": "Kachche Dhaage",
+    "year": 1999,
+    "genres": [
+      "Action",
+      "Drama",
+      "Romance"
+    ],
+    "poster": "Kachche Dhaage (1999).jpg"
+  },
+  {
+    "id": 50,
+    "title": "Baadshah",
+    "year": 1999,
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "poster": "Baadshah (1999).jpg"
+  },
+  {
+    "id": 51,
+    "title": "Kaho Naa... Pyaar Hai",
+    "year": 2000,
+    "genres": [
+      "Romance",
+      "Drama",
+      "Action",
+      "Comedy"
+    ],
+    "poster": "Kaho Naa... Pyaar Hai (2000).jpg"
+  },
+  {
+    "id": 52,
+    "title": "Mohabbatein",
+    "year": 2000,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "poster": "Mohabbatein (2000).jpg"
+  },
+  {
+    "id": 54,
+    "title": "Dulhan Hum Le Jayenge",
+    "year": 2000,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "poster": "Dulhan Hum Le Jayenge (2000).jpg"
+  },
+  {
+    "id": 55,
+    "title": "Badal",
+    "year": 2000,
+    "genres": [
+      "Action",
+      "Crime",
+      "Romance"
+    ],
+    "poster": "Badal (2000).jpg"
+  },
+  {
+    "id": 56,
+    "title": "Mela",
+    "year": 2000,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "poster": "Mela (2000).jpg"
+  },
+  {
+    "id": 57,
+    "title": "Fiza",
+    "year": 2000,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "poster": "Fiza (2000).jpg"
+  },
+  {
+    "id": 58,
+    "title": "Gadar: Ek Prem Katha",
+    "year": 2001,
+    "genres": [
+      "Action",
+      "Drama",
+      "Romance",
+      "History"
+    ],
+    "poster": "Gadar Ek Prem Katha (2001).jpg"
+  },
+  {
+    "id": 59,
+    "title": "Kabhi Khushi Kabhie Gham",
+    "year": 2001,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "poster": "Kabhi Khushi Kabhie Gham (2001).jpg"
+  },
+  {
+    "id": 60,
+    "title": "Lagaan: Once Upon a Time in India",
+    "year": 2001,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "History"
+    ],
+    "poster": "Lagaan Once Upon a Time in India (2001).jpg"
+  },
+  {
+    "id": 61,
+    "title": "Indian",
+    "year": 2001,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "poster": "Indian (2001).jpg"
+  },
+  {
+    "id": 62,
+    "title": "Dil Chahta Hai",
+    "year": 2001,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "poster": "Dil Chahta Hai (2001).jpg"
+  },
+  {
+    "id": 63,
+    "title": "Jodi No. 1",
+    "year": 2001,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "poster": "Jodi No. 1 (2001).jpg"
+  },
+  {
+    "id": 64,
+    "title": "Ek Rishtaa: The Bond of Love",
+    "year": 2001,
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "poster": "Ek Rishtaa The Bond of Love (2001).jpg"
+  },
+  {
+    "id": 65,
+    "title": "Mujhe Kucch Kehna Hai",
+    "year": 2001,
+    "genres": [
+      "Romance"
+    ],
+    "poster": "Mujhe Kucch Kehna Hai (2001).jpg"
+  },
+  {
+    "id": 66,
+    "title": "Ajnabee",
+    "year": 2001,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "poster": "Ajnabee (2001).jpg"
+  },
+  {
+    "id": 67,
+    "title": "Devdas",
+    "year": 2002,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "poster": "Devdas (2002).jpg"
+  },
+  {
+    "id": 68,
+    "title": "Raaz",
+    "year": 2002,
+    "genres": [
+      "Thriller",
+      "Horror"
+    ],
+    "poster": "Raaz (2002).jpg"
+  },
+  {
+    "id": 70,
+    "title": "Saathiya",
+    "year": 2002,
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "poster": "Saathiya (2002).jpg"
+  },
+  {
+    "id": 71,
+    "title": "Company",
+    "year": 2002,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "poster": "Company (2002).jpg"
+  },
+  {
+    "id": 72,
+    "title": "Maa Tujhhe Salaam",
+    "year": 2002,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "poster": "Maa Tujhhe Salaam (2002).jpg"
+  },
+  {
+    "id": 73,
+    "title": "Koi... Mil Gaya",
+    "year": 2003,
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Adventure"
+    ],
+    "poster": "Koi... Mil Gaya (2003).jpg"
+  },
+  {
+    "id": 74,
+    "title": "Kal Ho Naa Ho",
+    "year": 2003,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "poster": "Kal Ho Naa Ho (2003).jpg"
+  },
+  {
+    "id": 75,
+    "title": "Munna Bhai M.B.B.S.",
+    "year": 2003,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "poster": "Munna Bhai M.B.B.S. (2003).jpg"
+  },
+  {
+    "id": 77,
+    "title": "Main Prem Ki Diwani Hoon",
+    "year": 2003,
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "poster": "Main Prem Ki Diwani Hoon (2003).jpg"
+  },
+  {
+    "id": 80,
+    "title": "Veer-Zaara",
+    "year": 2004,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "poster": "Veer-Zaara (2004).jpg"
+  },
+  {
+    "id": 81,
+    "title": "Main Hoon Na",
+    "year": 2004,
+    "genres": [
+      "Drama"
+    ],
+    "poster": "Main Hoon Na (2004).jpg"
+  },
+  {
+    "id": 82,
+    "title": "Dhoom",
+    "year": 2004,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "poster": "Dhoom (2004).jpg"
+  },
+  {
+    "id": 83,
+    "title": "Mujhse Shaadi Karogi",
+    "year": 2004,
+    "genres": [
+      "Romance",
+      "Comedy"
+    ],
+    "poster": "Mujhse Shaadi Karogi (2004).jpg"
+  },
+  {
+    "id": 84,
+    "title": "Khakee",
+    "year": 2004,
+    "genres": [
+      "Action"
+    ],
+    "poster": "Khakee (2004).jpg"
+  },
+  {
+    "id": 85,
+    "title": "Lakshya",
+    "year": 2004,
+    "genres": [
+      "War",
+      "Action",
+      "Drama",
+      "Romance"
+    ],
+    "poster": "Lakshya (2004).jpg"
+  },
+  {
+    "id": 86,
+    "title": "Hum Tum",
+    "year": 2004,
+    "genres": [
+      "Romance",
+      "Family",
+      "Comedy",
+      "Drama"
+    ],
+    "poster": "Hum Tum (2004).jpg"
+  },
+  {
+    "id": 87,
+    "title": "Masti",
+    "year": 2004,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Mystery"
+    ],
+    "poster": "Masti (2004).jpg"
+  },
+  {
+    "id": 88,
+    "title": "Hulchul",
+    "year": 2004,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Action"
+    ],
+    "poster": "Hulchul (2004).jpg"
+  },
+  {
+    "id": 89,
+    "title": "Swades",
+    "year": 2004,
+    "genres": [
+      "Drama"
+    ],
+    "poster": "Swades (2004).jpg"
+  },
+  {
+    "id": 90,
+    "title": "No Entry",
+    "year": 2005,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "poster": "No Entry (2005).jpg"
+  },
+  {
+    "id": 91,
+    "title": "Bunty Aur Babli",
+    "year": 2005,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Romance"
+    ],
+    "poster": "Bunty Aur Babli (2005).jpg"
+  },
+  {
+    "id": 92,
+    "title": "Garam Masala",
+    "year": 2005,
+    "genres": [
+      "Comedy"
+    ],
+    "poster": "Garam Masala (2005).jpg"
+  },
+  {
+    "id": 95,
+    "title": "Maine Pyaar Kyun Kiya?",
+    "year": 2005,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "poster": "Maine Pyaar Kyun Kiya (2005).jpg"
+  },
+  {
+    "id": 96,
+    "title": "Sarkar",
+    "year": 2005,
+    "genres": [
+      "Crime",
+      "Action",
+      "Drama"
+    ],
+    "poster": "Sarkar (2005).jpg"
+  },
+  {
+    "id": 99,
+    "title": "Waqt",
+    "year": 2005,
+    "genres": [
+      "Drama"
+    ],
+    "poster": "Waqt (2005).jpg"
+  },
+  {
+    "id": 100,
+    "title": "Dhoom 2",
+    "year": 2006,
+    "genres": [
+      "Drama",
+      "Action",
+      "Thriller",
+      "Crime"
+    ],
+    "poster": "Dhoom 2 (2006).jpg"
+  },
+  {
+    "id": 101,
+    "title": "Krrish",
+    "year": 2006,
+    "genres": [
+      "Action",
+      "Science Fiction"
+    ],
+    "poster": "Krrish (2006).jpg"
+  },
+  {
+    "id": 102,
+    "title": "Rang De Basanti",
+    "year": 2006,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "History",
+      "Romance"
+    ],
+    "poster": "Rang De Basanti (2006).jpg"
+  },
+  {
+    "id": 103,
+    "title": "Fanaa",
+    "year": 2006,
+    "genres": [
+      "Action",
+      "Drama",
+      "Romance",
+      "Thriller"
+    ],
+    "poster": "Fanaa (2006).jpg"
+  },
+  {
+    "id": 104,
+    "title": "Don",
+    "year": 2006,
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "poster": "Don (2006).jpg"
+  },
+  {
+    "id": 105,
+    "title": "Phir Hera Pheri",
+    "year": 2006,
+    "genres": [
+      "Comedy"
+    ],
+    "poster": "Phir Hera Pheri (2006).jpg"
+  },
+  {
+    "id": 106,
+    "title": "Bhagam Bhag",
+    "year": 2006,
+    "genres": [
+      "Comedy",
+      "Thriller",
+      "Romance"
+    ],
+    "poster": "Bhagam Bhag (2006).jpg"
+  },
+  {
+    "id": 108,
+    "title": "Om Shanti Om",
+    "year": 2007,
+    "genres": [
+      "Comedy",
+      "Thriller",
+      "Drama"
+    ],
+    "poster": "Om Shanti Om (2007).jpg"
+  },
+  {
+    "id": 109,
+    "title": "Welcome",
+    "year": 2007,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Family"
+    ],
+    "poster": "Welcome (2007).jpg"
+  },
+  {
+    "id": 110,
+    "title": "Chak De! India",
+    "year": 2007,
+    "genres": [
+      "Drama"
+    ],
+    "poster": "Chak De! India (2007).jpg"
+  },
+  {
+    "id": 111,
+    "title": "Partner",
+    "year": 2007,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "poster": "Partner (2007).jpg"
+  },
+  {
+    "id": 112,
+    "title": "Taare Zameen Par",
+    "year": 2007,
+    "genres": [
+      "Drama"
+    ],
+    "poster": "Like Stars on Earth (2007).jpg"
+  },
+  {
+    "id": 113,
+    "title": "Bhool Bhulaiyaa",
+    "year": 2007,
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Thriller"
+    ],
+    "poster": "Bhool Bhulaiyaa (2007).jpg"
+  },
+
+  {
+    "id": 118,
+    "title": "Ghajini",
+    "year": 2008,
+    "genres": [
+      "Action",
+      "Romance",
+      "Thriller"
+    ],
+    "poster": "Ghajini (2008).jpg"
+  },
+  {
+    "id": 119,
+    "title": "Rab Ne Bana Di Jodi",
+    "year": 2008,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "poster": "Rab Ne Bana Di Jodi (2008).jpg"
+  },
+
+  {
+    "id": 121,
+    "title": "Race",
+    "year": 2008,
+    "genres": [
+      "Drama",
+      "Action",
+      "Thriller",
+      "Crime"
+    ],
+    "poster": "Race (2008).jpg"
+  },
+  {
+    "id": 122,
+    "title": "Jaane Tu... Ya Jaane Na",
+    "year": 2008,
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Romance"
+    ],
+    "poster": "Jaane Tu... Ya Jaane Na (2008).jpg"
+  },
+  {
+    "id": 123,
+    "title": "Golmaal Returns",
+    "year": 2008,
+    "genres": [
+      "Comedy"
+    ],
+    "poster": "Golmaal Returns (2008).jpg"
+  },
+  {
+    "id": 124,
+    "title": "Dostana",
+    "year": 2008,
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Romance"
+    ],
+    "poster": "Dostana (2008).jpg"
+  },
+  {
+    "id": 125,
+    "title": "Bachna Ae Haseeno",
+    "year": 2008,
+    "genres": [
+      "Romance",
+      "Comedy",
+      "Drama"
+    ],
+    "poster": "Bachna Ae Haseeno (2008).jpg"
+  },
+  
+  {
+    "id": 127,
+    "title": "3 Idiots",
+    "year": 2009,
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "poster": "3 Idiots (2009).jpg"
+  },
+  {
+    "id": 128,
+    "title": "Love Aaj Kal",
+    "year": 2009,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "poster": "Love Aaj Kal (2009).jpg"
+  },
+  {
+    "id": 129,
+    "title": "Ajab Prem Ki Ghazab Kahani",
+    "year": 2009,
+    "genres": [
+      "Romance",
+      "Comedy",
+      "Action"
+    ],
+    "poster": "Ajab Prem Ki Ghazab Kahani (2009).jpg"
+  },
+  {
+    "id": 131,
+    "title": "De Dana Dan",
+    "year": 2009,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "poster": "De Dana Dan (2009).jpg"
+  },
+  {
+    "id": 133,
+    "title": "New York",
+    "year": 2009,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "poster": "New York (2009).jpg"
+  },
+  {
+    "id": 136,
+    "title": "Dabangg",
+    "year": 2010,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "poster": "Dabangg (2010).jpg"
+  },
+  {
+    "id": 137,
+    "title": "Golmaal 3",
+    "year": 2010,
+    "genres": [
+      "Comedy",
+      "Family"
+    ],
+    "poster": "Golmaal 3 (2010).jpg"
+  },
+  {
+    "id": 138,
+    "title": "Raajneeti",
+    "year": 2010,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "poster": "Raajneeti (2010).jpg"
+  },
+  {
+    "id": 139,
+    "title": "My Name Is Khan",
+    "year": 2010,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "poster": "My Name Is Khan (2010).jpg"
+  },
+  {
+    "id": 140,
+    "title": "Housefull",
+    "year": 2010,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "poster": "Housefull (2010).jpg"
+  },
+  {
+    "id": 141,
+    "title": "Tees Maar Khan",
+    "year": 2010,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "poster": "Tees Maar Khan (2010).jpg"
+  },
+  {
+    "id": 142,
+    "title": "Once Upon a Time in Mumbaai",
+    "year": 2010,
+    "genres": [
+      "Drama",
+      "Thriller",
+      "Crime"
+    ],
+    "poster": "Once Upon a Time in Mumbaai (2010).jpg"
+  },
+  {
+    "id": 145,
+    "title": "Anjaana Anjaani",
+    "year": 2010,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "poster": "Anjaana Anjaani (2010).jpg"
+  },
+  {
+    "id": 146,
+    "title": "Bodyguard",
+    "year": 2011,
+    "genres": [
+      "Drama",
+      "Action",
+      "Romance"
+    ],
+    "poster": "Bodyguard (2011).jpg"
+  },
+  {
+    "id": 147,
+    "title": "Ready",
+    "year": 2011,
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "poster": "Ready (2011).jpg"
+  },
+  {
+    "id": 148,
+    "title": "Ra.One",
+    "year": 2011,
+    "genres": [
+      "Adventure",
+      "Action",
+      "Science Fiction"
+    ],
+    "poster": "Ra.One (2011).jpg"
+  },
+  {
+    "id": 149,
+    "title": "Don 2",
+    "year": 2011,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "poster": "Don 2 (2011).jpg"
+  },
+  {
+    "id": 150,
+    "title": "Singham",
+    "year": 2011,
+    "genres": [
+      "Drama",
+      "Action",
+      "Crime"
+    ],
+    "poster": "Singham (2011).jpg"
+  },
+  {
+    "id": 151,
+    "title": "Zindagi Na Milegi Dobara",
+    "year": 2011,
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Romance"
+    ],
+    "poster": "Zindagi Na Milegi Dobara (2011).jpg"
+  },
+  {
+    "id": 152,
+    "title": "The Dirty Picture",
+    "year": 2011,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "poster": "The Dirty Picture (2011).jpg"
+  },
+  {
+    "id": 153,
+    "title": "Rockstar",
+    "year": 2011,
+    "genres": [
+      "Drama",
+      "Music",
+      "Romance"
+    ],
+    "poster": "Rockstar (2011).jpg"
+  },
+  {
+    "id": 155,
+    "title": "Yamla Pagla Deewana",
+    "year": 2011,
+    "genres": [
+      "Music",
+      "Action",
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "poster": "Yamla Pagla Deewana (2011).jpg"
+  },
+  {
+    "id": 156,
+    "title": "Ek Tha Tiger",
+    "year": 2012,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller",
+      "Romance"
+    ],
+    "poster": "Ek Tha Tiger (2012).jpg"
+  },
+  {
+    "id": 157,
+    "title": "Dabangg 2",
+    "year": 2012,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "poster": "Dabangg 2 (2012).jpg"
+  },
+  {
+    "id": 158,
+    "title": "Rowdy Rathore",
+    "year": 2012,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "poster": "Rowdy Rathore (2012).jpg"
+  },
+  {
+    "id": 159,
+    "title": "Agneepath",
+    "year": 2012,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "poster": "Agneepath (2012).jpg"
+  },
+  {
+    "id": 160,
+    "title": "Housefull 2",
+    "year": 2012,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "poster": "Housefull 2 (2012).jpg"
+  },
+  {
+    "id": 161,
+    "title": "Barfi!",
+    "year": 2012,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Comedy"
+    ],
+    "poster": "Barfi! (2012).jpg"
+  },
+  {
+    "id": 162,
+    "title": "Jab Tak Hai Jaan",
+    "year": 2012,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "poster": "Jab Tak Hai Jaan (2012).jpg"
+  },
+  {
+    "id": 163,
+    "title": "Bol Bachchan",
+    "year": 2012,
+    "genres": [
+      "Comedy",
+      "Action"
+    ],
+    "poster": "Bol Bachchan (2012).jpg"
+  },
+  {
+    "id": 164,
+    "title": "Talaash",
+    "year": 2012,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "poster": "Talaash (2012).jpg"
+  },
+  {
+    "id": 165,
+    "title": "Son of Sardaar",
+    "year": 2012,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Romance"
+    ],
+    "poster": "Son of Sardaar (2012).jpg"
+  },
+  {
+    "id": 166,
+    "title": "Dhoom 3",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Crime"
+    ],
+    "poster": "Dhoom 3 (2013).jpg"
+  },
+  {
+    "id": 167,
+    "title": "Krrish 3",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Science Fiction"
+    ],
+    "poster": "Krrish 3 (2013).jpg"
+  },
+  {
+    "id": 168,
+    "title": "Yeh Jawaani Hai Deewani",
+    "year": 2013,
+    "genres": [
+      "Romance",
+      "Comedy"
+    ],
+    "poster": "Yeh Jawaani Hai Deewani (2013).jpg"
+  },
+  {
+    "id": 169,
+    "title": "Goliyon Ki Raasleela Ram-Leela",
+    "year": 2013,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "poster": "Goliyon Ki Raasleela Ram-Leela (2013).jpg"
+  },
+  {
+    "id": 170,
+    "title": "Bhaag Milkha Bhaag",
+    "year": 2013,
+    "genres": [
+      "History",
+      "Drama"
+    ],
+    "poster": "Bhaag Milkha Bhaag (2013).jpg"
+  },
+  {
+    "id": 171,
+    "title": "Race 2",
+    "year": 2013,
+    "genres": [
+      "Thriller",
+      "Action",
+      "Adventure",
+      "Crime"
+    ],
+    "poster": "Race 2 (2013).jpg"
+  },
+  {
+    "id": 172,
+    "title": "Grand Masti",
+    "year": 2013,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "poster": "Grand Masti (2013).jpg"
+  },
+  {
+    "id": 173,
+    "title": "Aashiqui 2",
+    "year": 2013,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "poster": "Aashiqui 2 (2013).jpg"
+  },
+  {
+    "id": 174,
+    "title": "PK",
+    "year": 2014,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Science Fiction"
+    ],
+    "poster": "PK (2014).jpg"
+  },
+  {
+    "id": 175,
+    "title": "Kick",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Romance",
+      "Comedy",
+      "Crime"
+    ],
+    "poster": "Kick (2014).jpg"
+  },
+  {
+    "id": 176,
+    "title": "Happy New Year",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime",
+      "Adventure"
+    ],
+    "poster": "Happy New Year (2014).jpg"
+  },
+  {
+    "id": 177,
+    "title": "Bang Bang!",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Romance",
+      "Thriller"
+    ],
+    "poster": "Bang Bang! (2014).jpg"
+  },
+  {
+    "id": 178,
+    "title": "Singham Returns",
+    "year": 2014,
+    "genres": [
+      "Action"
+    ],
+    "poster": "Singham Returns (2014).jpg"
+  },
+  {
+    "id": 179,
+    "title": "2 States",
+    "year": 2014,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Drama"
+    ],
+    "poster": "2 States (2014).jpg"
+  },
+  {
+    "id": 180,
+    "title": "Ek Villain",
+    "year": 2014,
+    "genres": [
+      "Romance",
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "poster": "Ek Villain (2014).jpg"
+  },
+  {
+    "id": 181,
+    "title": "Gunday",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "poster": "Gunday (2014).jpg"
+  },
+  {
+    "id": 182,
+    "title": "Bajrangi Bhaijaan",
+    "year": 2015,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Action"
+    ],
+    "poster": "Bajrangi Bhaijaan (2015).jpg"
+  },
+  {
+    "id": 183,
+    "title": "Prem Ratan Dhan Payo",
+    "year": 2015,
+    "genres": [
+      "Romance",
+      "Drama",
+      "Action"
+    ],
+    "poster": "Prem Ratan Dhan Payo (2015).jpg"
+  },
+  {
+    "id": 184,
+    "title": "Bajirao Mastani",
+    "year": 2015,
+    "genres": [
+      "History",
+      "Romance",
+      "Drama"
+    ],
+    "poster": "Bajirao Mastani (2015).jpg"
+  },
+  {
+    "id": 185,
+    "title": "Tanu Weds Manu: Returns",
+    "year": 2015,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "poster": "Tanu Weds Manu Returns (2015).jpg"
+  },
+  {
+    "id": 186,
+    "title": "Dilwale",
+    "year": 2015,
+    "genres": [
+      "Crime",
+      "Action",
+      "Comedy"
+    ],
+    "poster": "Dilwale (2015).jpg"
+  },
+  {
+    "id": 187,
+    "title": "B\u0101hubali: The Beginning",
+    "year": 2015,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Drama"
+    ],
+    "poster": "B\u0101hubali The Beginning (2015).jpg"
+  },
+  {
+    "id": 188,
+    "title": "ABCD 2",
+    "year": 2015,
+    "genres": [
+      "Drama"
+    ],
+    "poster": "ABCD 2 (2015).jpg"
+  },
+  {
+    "id": 189,
+    "title": "Welcome Back",
+    "year": 2015,
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "poster": "Welcome Back (2015).jpg"
+  },
+  {
+    "id": 190,
+    "title": "Baby",
+    "year": 2015,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "poster": "Baby (2015).jpg"
+  },
+  {
+    "id": 191,
+    "title": "Dangal",
+    "year": 2016,
+    "genres": [
+      "Drama",
+      "Family",
+      "Comedy"
+    ],
+    "poster": "Dangal (2016).jpg"
+  },
+  {
+    "id": 192,
+    "title": "Sultan",
+    "year": 2016,
+    "genres": [
+      "Drama",
+      "Action",
+      "Romance"
+    ],
+    "poster": "Sultan (2016).jpg"
+  },
+  {
+    "id": 193,
+    "title": "Rustom",
+    "year": 2016,
+    "genres": [
+      "Thriller",
+      "Drama",
+      "Crime"
+    ],
+    "poster": "Rustom (2016).jpg"
+  },
+  {
+    "id": 194,
+    "title": "Airlift",
+    "year": 2016,
+    "genres": [
+      "Drama",
+      "History",
+      "Action"
+    ],
+    "poster": "Airlift (2016).jpg"
+  },
+  {
+    "id": 195,
+    "title": "M.S. Dhoni: The Untold Story",
+    "year": 2016,
+    "genres": [
+      "Drama"
+    ],
+    "poster": "M.S. Dhoni The Untold Story (2016).jpg"
+  },
+  {
+    "id": 196,
+    "title": "Housefull 3",
+    "year": 2016,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "poster": "Housefull 3 (2016).jpg"
+  },
+  {
+    "id": 197,
+    "title": "Fan",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "poster": "Fan (2016).jpg"
+  },
+  {
+    "id": 198,
+    "title": "Shivaay",
+    "year": 2016,
+    "genres": [
+      "Adventure",
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "poster": "Shivaay (2016).jpg"
+  },
+  {
+    "id": 199,
+    "title": "Baaghi",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Thriller",
+      "Romance",
+      "Adventure"
+    ],
+    "poster": "Baaghi (2016).jpg"
+  },
+  {
+    "id": 200,
+    "title": "Bahubali 2: The Conclusion",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "poster": "B\u0101hubali 2 The Conclusion (2017).jpg"
+  },
+  {
+    "id": 201,
+    "title": "Tiger Zinda Hai",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "poster": "Tiger Zinda Hai (2017).jpg"
+  },
+  {
+    "id": 202,
+    "title": "Golmaal Again",
+    "year": 2017,
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Action",
+      "Fantasy"
+    ],
+    "poster": "Golmaal Again (2017).jpg"
+  },
+  {
+    "id": 203,
+    "title": "Raees",
+    "year": 2017,
+    "genres": [
+      "Thriller",
+      "Action",
+      "Crime"
+    ],
+    "poster": "Raees (2017).jpg"
+  },
+  {
+    "id": 204,
+    "title": "Toilet: A Love Story",
+    "year": 2017,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "poster": "Toilet A Love Story (2017).jpg"
+  },
+  {
+    "id": 205,
+    "title": "Badrinath Ki Dulhania",
+    "year": 2017,
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Romance"
+    ],
+    "poster": "Badrinath Ki Dulhania (2017).jpg"
+  },
+  {
+    "id": 206,
+    "title": "Tubelight",
+    "year": 2017,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "poster": "Tubelight (2017).jpg"
+  },
+  {
+    "id": 207,
+    "title": "Kaabil",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Thriller",
+      "Drama"
+    ],
+    "poster": "Kaabil (2017).jpg"
+  },
+  {
+    "id": 208,
+    "title": "Sanju",
+    "year": 2018,
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "poster": "Sanju (2018).jpg"
+  },
+  {
+    "id": 209,
+    "title": "Padmaavat",
+    "year": 2018,
+    "genres": [
+      "Drama",
+      "History",
+      "Romance"
+    ],
+    "poster": "Padmaavat (2018).jpg"
+  },
+  {
+    "id": 210,
+    "title": "Simmba",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "poster": "Simmba (2018).jpg"
+  },
+  {
+    "id": 211,
+    "title": "2.0",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Fantasy"
+    ],
+    "poster": "2.0 (2018).jpg"
+  },
+  {
+    "id": 212,
+    "title": "Race 3",
+    "year": 2018,
+    "genres": [
+      "Thriller",
+      "Action",
+      "Crime",
+      "Adventure"
+    ],
+    "poster": "Race 3 (2018).jpg"
+  },
+  {
+    "id": 213,
+    "title": "Baaghi 2",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Crime",
+      "Adventure",
+      "Mystery",
+      "Thriller"
+    ],
+    "poster": "Baaghi 2 (2018).jpg"
+  },
+  {
+    "id": 215,
+    "title": "Badhaai Ho",
+    "year": 2018,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Drama"
+    ],
+    "poster": "Badhaai Ho (2018).jpg"
+  },
+  {
+    "id": 217,
+    "title": "Raazi",
+    "year": 2018,
+    "genres": [
+      "Thriller",
+      "Action",
+      "Drama",
+      "History"
+    ],
+    "poster": "Raazi (2018).jpg"
+  },
+  {
+    "id": 218,
+    "title": "War",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Thriller",
+      "Adventure"
+    ],
+    "poster": "War (2019).jpg"
+  },
+  {
+    "id": 219,
+    "title": "Kabir Singh",
+    "year": 2019,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "poster": "Kabir Singh (2019).jpg"
+  },
+  {
+    "id": 220,
+    "title": "Uri: The Surgical Strike",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Drama",
+      "War"
+    ],
+    "poster": "Uri The Surgical Strike (2019).jpg"
+  },
+  {
+    "id": 221,
+    "title": "Housefull 4",
+    "year": 2019,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "poster": "Housefull 4 (2019).jpg"
+  },
+  {
+    "id": 222,
+    "title": "Bharat",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "History",
+      "Drama"
+    ],
+    "poster": "Bharat (2019).jpg"
+  },
+  {
+    "id": 223,
+    "title": "Good Newwz",
+    "year": 2019,
+    "genres": [
+      "Romance",
+      "Comedy",
+      "Family",
+      "Drama"
+    ],
+    "poster": "Good Newwz (2019).jpg"
+  },
+  {
+    "id": 224,
+    "title": "Mission Mangal",
+    "year": 2019,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "poster": "Mission Mangal (2019).jpg"
+  },
+  {
+    "id": 226,
+    "title": "Tanhaji: The Unsung Warrior",
+    "year": 2020,
+    "genres": [
+      "Action",
+      "Drama",
+      "History"
+    ],
+    "poster": "Tanhaji The Unsung Warrior (2020).jpg"
+  },
+  {
+    "id": 228,
+    "title": "Street Dancer 3D",
+    "year": 2020,
+    "genres": [
+      "Drama"
+    ],
+    "poster": "Street Dancer 3D (2020).jpg"
+  },
+  {
+    "id": 229,
+    "title": "Shubh Mangal Zyada Saavdhan",
+    "year": 2020,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "poster": "Shubh Mangal Zyada Saavdhan (2020).jpg"
+  },
+  {
+    "id": 230,
+    "title": "Malang",
+    "year": 2020,
+    "genres": [
+      "Romance",
+      "Action",
+      "Adventure",
+      "Crime",
+      "Thriller"
+    ],
+    "poster": "Malang (2020).jpg"
+  },
+  {
+    "id": 231,
+    "title": "Chhapaak",
+    "year": 2020,
+    "genres": [
+      "Drama"
+    ],
+    "poster": "Chhapaak (2020).jpg"
+  },
+  {
+    "id": 233,
+    "title": "Thappad",
+    "year": 2020,
+    "genres": [
+      "Drama"
+    ],
+    "poster": "Thappad (2020).jpg"
+  },
+  {
+    "id": 234,
+    "title": "83",
+    "year": 2021,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "poster": "83 (2021).jpg"
+  },
+  {
+    "id": 237,
+    "title": "Tadap",
+    "year": 2021,
+    "genres": [
+      "Action",
+      "Romance"
+    ],
+    "poster": "Tadap (2021).jpg"
+  },
+  {
+    "id": 239,
+    "title": "Mumbai Saga",
+    "year": 2021,
+    "genres": [
+      "Action",
+      "Drama",
+      "Crime"
+    ],
+    "poster": "Mumbai Saga (2021).jpg"
+  },
+  {
+    "id": 240,
+    "title": "Bunty Aur Babli 2",
+    "year": 2021,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "poster": "Bunty Aur Babli 2 (2021).jpg"
+  },
+  {
+    "id": 241,
+    "title": "K.G.F: Chapter 2",
+    "year": 2022,
+    "genres": [
+      "Action",
+      "Thriller",
+      "Adventure",
+      "Crime"
+    ],
+    "poster": "K.G.F Chapter 2 (2022).jpg"
+  },
+  {
+    "id": 242,
+    "title": "RRR",
+    "year": 2022,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "poster": "RRR (2022).jpg"
+  },
+  {
+    "id": 243,
+    "title": "Brahm\u0101stra Part One: Shiva",
+    "year": 2022,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "poster": "Brahm\u0101stra Part One Shiva (2022).jpg"
+  },
+  {
+    "id": 244,
+    "title": "Bhool Bhulaiyaa 2",
+    "year": 2022,
+    "genres": [
+      "Horror",
+      "Comedy"
+    ],
+    "poster": "Bhool Bhulaiyaa 2 (2022).jpg"
+  },
+  {
+    "id": 245,
+    "title": "The Kashmir Files",
+    "year": 2022,
+    "genres": [
+      "History",
+      "Drama"
+    ],
+    "poster": "The Kashmir Files (2022).jpg"
+  },
+  {
+    "id": 246,
+    "title": "Gangubai Kathiawadi",
+    "year": 2022,
+    "genres": [
+      "Crime",
+      "Drama",
+      "History"
+    ],
+    "poster": "Gangubai Kathiawadi (2022).jpg"
+  },
+  {
+    "id": 249,
+    "title": "Bhediya",
+    "year": 2022,
+    "genres": [
+      "Horror",
+      "Comedy"
+    ],
+    "poster": "Bhediya (2022).jpg"
+  },
+  {
+    "id": 250,
+    "title": "Laal Singh Chaddha",
+    "year": 2022,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Family",
+      "History"
+    ],
+    "poster": "Laal Singh Chaddha (2022).jpg"
+  },
+  {
+    "id": 251,
+    "title": "Pathaan",
+    "year": 2023,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "poster": "Pathaan (2023).jpg"
+  },
+  {
+    "id": 252,
+    "title": "Dream Girl 2",
+    "year": 2023,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "poster": "Dream Girl 2 (2023).jpg"
+  },
+  {
+    "id": 253,
+    "title": "Jawan",
+    "year": 2023,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "poster": "Jawan (2023).jpg"
+  },
+  {
+    "id": 254,
+    "title": "Fukrey 3",
+    "year": 2023,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "poster": "Fukrey 3 (2023).jpg"
+  },
+  {
+    "id": 255,
+    "title": "Mission Raniganj",
+    "year": 2023,
+    "genres": [
+      "Drama",
+      "Action",
+      "Thriller"
+    ],
+    "poster": "Mission Raniganj (2023).jpg"
+  },
+  {
+    "id": 256,
+    "title": "Thank You For Coming",
+    "year": 2023,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "poster": "Thank You For Coming (2023).jpg"
+  },
+  {
+    "id": 259,
+    "title": "Maidaan",
+    "year": 2024,
+    "genres": [
+      "Drama"
+    ],
+    "poster": "Maidaan (2024).jpg"
+  },
+  {
+    "id": 262,
+    "title": "Yodha",
+    "year": 2024,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "poster": "Yodha (2024).jpg"
+  },
+  {
+    "id": 263,
+    "title": "Laapata Ladies",
+    "year": 2024,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "poster": "Lost Ladies (2024).jpg"
+  },
+  {
+    "id": 264,
+    "title": "Shaitaan",
+    "year": 2024,
+    "genres": [
+      "Thriller",
+      "Horror"
+    ],
+    "poster": "Shaitaan (2024).jpg"
+  },
+  {
+    "id": 265,
+    "title": "Madgaon Express",
+    "year": 2024,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "poster": "Madgaon Express (2024).jpg"
+  },
+  {
+    "id": 267,
+    "title": "Main Atal Hoon",
+    "year": 2024,
+    "genres": [
+      "Drama"
+    ],
+    "poster": "Main Atal Hoon (2024).jpg"
+  },
+  {
+    "id": 268,
+    "title": "Merry Christmas",
+    "year": 2024,
+    "genres": [
+      "Thriller",
+      "Drama"
+    ],
+    "poster": "Merry Christmas (2024).jpg"
+  },
+  {
+    "id": 269,
+    "title": "Article 370",
+    "year": 2024,
+    "genres": [
+      "Action",
+      "Thriller",
+      "Drama"
+    ],
+    "poster": "Article 370 (2024).jpg"
+  },
+  {
+    "id": 270,
+    "title": "Teri Baaton Mein Aisa Uljha Jiya",
+    "year": 2024,
+    "genres": [
+      "Romance",
+      "Comedy",
+      "Science Fiction"
+    ],
+    "poster": "Teri Baaton Mein Aisa Uljha Jiya (2024).jpg"
+  },
+  {
+    "id": 271,
+    "title": "Dunki",
+    "year": 2023,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Drama"
+    ],
+    "poster": "Dunki (2023).jpg"
+  },
+  {
+    "id": 272,
+    "title": "Salaar: Part 1 - Ceasefire",
+    "year": 2023,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "poster": "Salaar Part 1 - Ceasefire (2023).jpg"
+  },
+  {
+    "id": 273,
+    "title": "12th Fail",
+    "year": 2023,
+    "genres": [
+      "Drama"
+    ],
+    "poster": "12th Fail (2023).jpg"
+  },
+  {
+    "id": 274,
+    "title": "Total Dhamaal",
+    "year": 2019,
+    "genres": [
+      "Comedy",
+      "Adventure"
+    ],
+    "poster": "Total Dhamaal (2019).jpg"
+  },
+  {
+    "id": 275,
+    "title": "Kesari",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Drama",
+      "History",
+      "War"
+    ],
+    "poster": "Kesari (2019).jpg"
+  },
+  {
+    "id": 276,
+    "title": "Chhichhore",
+    "year": 2019,
+    "genres": [
+      "Romance",
+      "Comedy",
+      "Drama"
+    ],
+    "poster": "Chhichhore (2019).jpg"
+  },
+  {
+    "id": 277,
+    "title": "Super 30",
+    "year": 2019,
+    "genres": [
+      "Drama"
+    ],
+    "poster": "Super 30 (2019).jpg"
+  },
+  {
+    "id": 278,
+    "title": "Sitara: Let Girls Dream",
+    "year": 2019,
+    "genres": [
+      "Animation",
+      "Drama"
+    ],
+    "poster": "Sitara Let Girls Dream (2019).jpg"
+  },
+  {
+    "id": 280,
+    "title": "Gully Boy",
+    "year": 2019,
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "poster": "Gully Boy (2019).jpg"
+  },
+  {
+    "id": 281,
+    "title": "De De Pyaar De",
+    "year": 2019,
+    "genres": [
+      "Romance",
+      "Comedy"
+    ],
+    "poster": "De De Pyaar De (2019).jpg"
+  },
+  {
+    "id": 283,
+    "title": "Luka Chuppi",
+    "year": 2019,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "poster": "Luka Chuppi (2019).jpg"
+  },
+  {
+    "id": 284,
+    "title": "Batla House",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "poster": "Batla House (2019).jpg"
+  },
+  {
+    "id": 285,
+    "title": "Kalank",
+    "year": 2019,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "poster": "Kalank (2019).jpg"
+  },
+  {
+    "id": 286,
+    "title": "Student of the Year 2",
+    "year": 2019,
+    "genres": [
+      "Romance",
+      "Comedy",
+      "Drama"
+    ],
+    "poster": "Student of the Year 2 (2019).jpg"
+  },
+  {
+    "id": 287,
+    "title": "Mardaani 2",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "poster": "Mardaani 2 (2019).jpg"
+  },
+  {
+    "id": 288,
+    "title": "Marjaavaan",
+    "year": 2019,
+    "genres": [
+      "Romance",
+      "Action"
+    ],
+    "poster": "Marjaavaan (2019).jpg"
+  },
+  {
+    "id": 290,
+    "title": "Panipat",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "History",
+      "War",
+      "Romance"
+    ],
+    "poster": "Panipat (2019).jpg"
+  },
+  {
+    "id": 291,
+    "title": "Sonu Ke Titu Ki Sweety",
+    "year": 2018,
+    "genres": [
+      "Romance",
+      "Comedy"
+    ],
+    "poster": "Sonu Ke Titu Ki Sweety (2018).jpg"
+  },
+  {
+    "id": 292,
+    "title": "Raid",
+    "year": 2018,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "poster": "Raid (2018).jpg"
+  },
+  {
+    "id": 294,
+    "title": "Veere Di Wedding",
+    "year": 2018,
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "poster": "Veere Di Wedding (2018).jpg"
+  },
+  {
+    "id": 295,
+    "title": "Satyameva Jayate",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "poster": "Satyameva Jayate (2018).jpeg"
+  },
+  {
+    "id": 296,
+    "title": "Sui Dhaaga - Made in India",
+    "year": 2018,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "poster": "Sui Dhaaga - Made in India (2018).jpg"
+  },
+  {
+    "id": 297,
+    "title": "Dhadak",
+    "year": 2018,
+    "genres": [
+      "Romance",
+      "Drama",
+      "Comedy"
+    ],
+    "poster": "Dhadak (2018).jpg"
+  },
+  {
+    "id": 298,
+    "title": "Kedarnath",
+    "year": 2018,
+    "genres": [
+      "Romance"
+    ],
+    "poster": "Kedarnath (2018).jpg"
+  },
+  {
+    "id": 301,
+    "title": "Hichki",
+    "year": 2018,
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "poster": "Hichki (2018).jpg"
+  },
+  {
+    "id": 302,
+    "title": "Judwaa 2",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Romance"
+    ],
+    "poster": "Judwaa 2 (2017).jpg"
+  },
+  {
+    "id": 303,
+    "title": "Fukrey Returns",
+    "year": 2017,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "poster": "Fukrey Returns (2017).jpg"
+  },
+  {
+    "id": 305,
+    "title": "Secret Superstar",
+    "year": 2017,
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "poster": "Secret Superstar (2017).jpg"
+  },
+  {
+    "id": 306,
+    "title": "Jab Harry Met Sejal",
+    "year": 2017,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "poster": "Jab Harry Met Sejal (2017).jpg"
+  },
+  {
+    "id": 307,
+    "title": "Hindi Medium",
+    "year": 2017,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "poster": "Hindi Medium (2017).jpg"
+  },
+  {
+    "id": 308,
+    "title": "Half Girlfriend",
+    "year": 2017,
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "poster": "Half Girlfriend (2017).jpg"
+  },
+  {
+    "id": 310,
+    "title": "Jagga Jasoos",
+    "year": 2017,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Mystery",
+      "Romance"
+    ],
+    "poster": "Jagga Jasoos (2017).jpeg"
+  },
+  {
+    "id": 312,
+    "title": "Sachin: A Billion Dreams",
+    "year": 2017,
+    "genres": [
+      "Documentary",
+      "Drama"
+    ],
+    "poster": "Sachin A Billion Dreams (2017).jpg"
+  },
+  {
+    "id": 313,
+    "title": "Naam Shabana",
+    "year": 2017,
+    "genres": [
+      "Thriller"
+    ],
+    "poster": "Naam Shabana (2017).jpg"
+  },
+  {
+    "id": 314,
+    "title": "Bareilly Ki Barfi",
+    "year": 2017,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "poster": "Bareilly Ki Barfi (2017).jpg"
+  },
+  {
+    "id": 316,
+    "title": "Ae Dil Hai Mushkil",
+    "year": 2016,
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "poster": "Ae Dil Hai Mushkil (2016).jpg"
+  },
+  {
+    "id": 317,
+    "title": "Kapoor & Sons",
+    "year": 2016,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Comedy",
+      "Family"
+    ],
+    "poster": "Kapoor & Sons (2016).jpg"
+  },
+  {
+    "id": 318,
+    "title": "Dishoom",
+    "year": 2016,
+    "genres": [
+      "Comedy",
+      "Action"
+    ],
+    "poster": "Dishoom (2016).jpg"
+  },
+  {
+    "id": 319,
+    "title": "Dear Zindagi",
+    "year": 2016,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "poster": "Dear Zindagi (2016).jpg"
+  },
+  {
+    "id": 320,
+    "title": "Neerja",
+    "year": 2016,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "poster": "Neerja (2016).jpg"
+  },
+  {
+    "id": 321,
+    "title": "Pink",
+    "year": 2016,
+    "genres": [
+      "Drama"
+    ],
+    "poster": "Pink (2016).jpg"
+  },
+  {
+    "id": 322,
+    "title": "Befikre",
+    "year": 2016,
+    "genres": [
+      "Romance",
+      "Comedy",
+      "Drama"
+    ],
+    "poster": "Befikre (2016).jpg"
+  },
+  {
+    "id": 323,
+    "title": "Udta Punjab",
+    "year": 2016,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "poster": "Udta Punjab (2016).jpg"
+  },
+  {
+    "id": 324,
+    "title": "Mohenjo Daro",
+    "year": 2016,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "History",
+      "Romance"
+    ],
+    "poster": "Mohenjo Daro (2016).jpeg"
+  },
+  {
+    "id": 326,
+    "title": "Chennai Express",
+    "year": 2013,
+    "genres": [
+      "Romance",
+      "Comedy",
+      "Action"
+    ],
+    "poster": "Chennai Express (2013).jpg"
+  },
+  {
+    "id": 327,
+    "title": "R... Rajkumar",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Romance"
+    ],
+    "poster": "R... Rajkumar (2013).jpg"
+  },
+  {
+    "id": 328,
+    "title": "Special 26",
+    "year": 2013,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "poster": "Special 26 (2013).jpg"
+  },
+  {
+    "id": 329,
+    "title": "Raanjhanaa",
+    "year": 2013,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "poster": "Raanjhanaa (2013).jpeg"
+  },
+  {
+    "id": 330,
+    "title": "Once Upon a Time in Mumbai Dobaara!",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "poster": "Once Upon a Time in Mumbai Dobaara! (2013).jpg"
+  },
+  {
+    "id": 332,
+    "title": "Shootout at Wadala",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "History"
+    ],
+    "poster": "Shootout at Wadala (2013).jpg"
+  },
+  {
+    "id": 333,
+    "title": "Boss",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama"
+    ],
+    "poster": "Boss (2013).jpg"
+  },
+  {
+    "id": 334,
+    "title": "Shuddh Desi Romance",
+    "year": 2013,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "poster": "Shuddh Desi Romance (2013).jpeg"
+  },
+  {
+    "id": 335,
+    "title": "Kai Po Che!",
+    "year": 2013,
+    "genres": [
+      "Drama"
+    ],
+    "poster": "Kai Po Che! (2013).jpg"
+  },
+  {
+    "id": 336,
+    "title": "Madras Cafe",
+    "year": 2013,
+    "genres": [
+      "Thriller",
+      "Drama",
+      "Action"
+    ],
+    "poster": "Madras Cafe (2013).jpg"
+  },
+  {
+    "id": 338,
+    "title": "ABCD",
+    "year": 2013,
+    "genres": [
+      "Drama"
+    ],
+    "poster": "ABCD (2013).jpg"
+  },
+  {
+    "id": 339,
+    "title": "OMG: Oh My God!",
+    "year": 2012,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "poster": "OMG Oh My God! (2012).jpg"
+  },
+  {
+    "id": 340,
+    "title": "Cocktail",
+    "year": 2012,
+    "genres": [
+      "Romance",
+      "Drama",
+      "Comedy"
+    ],
+    "poster": "Cocktail (2012).jpg"
+  },
+  {
+    "id": 341,
+    "title": "Raaz 3",
+    "year": 2012,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "poster": "Raaz 3 (2012).jpg"
+  },
+  {
+    "id": 342,
+    "title": "Khiladi 786",
+    "year": 2012,
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "poster": "Khiladi 786 (2012).jpeg"
+  },
+  {
+    "id": 344,
+    "title": "Ishaqzaade",
+    "year": 2012,
+    "genres": [
+      "Drama",
+      "Action",
+      "Romance"
+    ],
+    "poster": "Ishaqzaade (2012).jpg"
+  },
+  {
+    "id": 346,
+    "title": "Rocketry: The Nambi Effect",
+    "year": 2022,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "poster": "Rocketry The Nambi Effect (2022).jpg"
+  },
+  {
+    "id": 347,
+    "title": "Angrezi Medium",
+    "year": 2020,
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "poster": "Angrezi Medium (2020).jpg"
+  },
+  {
+    "id": 348,
+    "title": "Dil Dhadakne Do",
+    "year": 2015,
+    "genres": [
+      "Drama",
+      "Family",
+      "Romance"
+    ],
+    "poster": "Dil Dhadakne Do (2015).jpg"
+  },
+  {
+    "id": 349,
+    "title": "Pyaar Ka Punchnama 2",
+    "year": 2015,
+    "genres": [
+      "Romance",
+      "Comedy",
+      "Drama"
+    ],
+    "poster": "Pyaar Ka Punchnama 2 (2015).jpg"
+  },
+  {
+    "id": 350,
+    "title": "Badlapur",
+    "year": 2015,
+    "genres": [
+      "Crime",
+      "Thriller",
+      "Action",
+      "Drama"
+    ],
+    "poster": "Badlapur (2015).jpg"
+  },
+  {
+    "id": 351,
+    "title": "Hate Story 3",
+    "year": 2015,
+    "genres": [
+      "Thriller",
+      "Drama"
+    ],
+    "poster": "Hate Story 3 (2015).jpg"
+  },
+  {
+    "id": 352,
+    "title": "Humpty Sharma Ki Dulhania",
+    "year": 2014,
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Romance"
+    ],
+    "poster": "Humpty Sharma Ki Dulhania (2014).jpg"
+  },
+  {
+    "id": 353,
+    "title": "Entertainment",
+    "year": 2014,
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "poster": "Entertainment (2014).jpg"
+  },
+  {
+    "id": 354,
+    "title": "Mary Kom",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Drama",
+      "History"
+    ],
+    "poster": "Mary Kom (2014).jpeg"
+  },
+  {
+    "id": 355,
+    "title": "Main Tera Hero",
+    "year": 2014,
+    "genres": [
+      "Romance",
+      "Comedy"
+    ],
+    "poster": "Main Tera Hero (2014).jpg"
+  },
+  {
+    "id": 356,
+    "title": "Heropanti",
+    "year": 2014,
+    "genres": [
+      "Romance",
+      "Action"
+    ],
+    "poster": "Heropanti (2014).jpg"
+  },
+  {
+    "id": 357,
+    "title": "Ragini MMS 2",
+    "year": 2014,
+    "genres": [
+      "Horror"
+    ],
+    "poster": "Ragini MMS 2 (2014).jpg"
+  },
+  {
+    "id": 359,
+    "title": "Hasee Toh Phasee",
+    "year": 2014,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "poster": "Hasee Toh Phasee (2014).jpg"
+  },
+  {
+    "id": 360,
+    "title": "Bhoothnath Returns",
+    "year": 2014,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "poster": "Bhoothnath Returns (2014).jpg"
+  },
+  {
+    "id": 361,
+    "title": "Gol Maal",
+    "year": 1979,
+    "genres": [
+      "Comedy"
+    ],
+    "poster": "Gol Maal (1979).jpg"
+  },
+  {
+    "id": 362,
+    "title": "Apur Sansar",
+    "year": 1959,
+    "genres": [
+      "Drama"
+    ],
+    "poster": "Apur Sansar (1959).jpg"
+  },
+  {
+    "id": 363,
+    "title": "777 Charlie",
+    "year": 2022,
+    "genres": [
+      "Drama",
+      "Adventure",
+      "Comedy"
+    ],
+    "poster": "777 Charlie (2022).jpg"
+  },
+  {
+    "id": 365,
+    "title": "Jersey",
+    "year": 2020,
+    "genres": [
+      "Story",
+      "Drama"
+    ],
+    "poster": "Jersey (2022).jpg"
+  },
+  {
+    "id": 366,
+    "title": "96",
+    "year": 2018,
+    "genres": [
+      "Romance"
+    ],
+    "poster": "96 (2018).jpg"
+  },
+  {
+    "id": 367,
+    "title": "Natsamrat",
+    "year": 2016,
+    "genres": [
+      "Drama"
+    ],
+    "poster": "Natsamrat (2016).jpg"
+  },
+  {
+    "id": 368,
+    "title": "Drishyam 2",
+    "year": 2022,
+    "genres": [
+      "Crime",
+      "Thriller",
+      "Drama",
+      "Mystery"
+    ],
+    "poster": "Drishyam 2 (2022).jpg"
+  },
+  {
+    "id": 369,
+    "title": "Jaane Bhi Do Yaaro",
+    "year": 1983,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "poster": "Jaane Bhi Do Yaaro (1983).jpg"
+  },
+  {
+    "id": 370,
+    "title": "Hera Pheri",
+    "year": 2000,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "poster": "Hera Pheri (2000).jpg"
+  },
+  {
+    "id": 371,
+    "title": "Sardar Udham",
+    "year": 2021,
+    "genres": [
+      "Crime",
+      "Drama",
+      "History"
+    ],
+    "poster": "Sardar Udham (2021).jpg"
+  },
+  {
+    "id": 373,
+    "title": "Andhadhun",
+    "year": 2018,
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller",
+      "Comedy"
+    ],
+    "poster": "Andhadhun (2018).jpg"
+  },
+  {
+    "id": 374,
+    "title": "Tumbbad",
+    "year": 2018,
+    "genres": [
+      "Fantasy",
+      "Horror"
+    ],
+    "poster": "Tumbbad (2018).jpg"
+  },
+  {
+    "id": 376,
+    "title": "Sairat",
+    "year": 2016,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "poster": "Sairat (2016).jpg"
+  },
+  {
+    "id": 377,
+    "title": "Jo Jeeta Wohi Sikandar",
+    "year": 1992,
+    "genres": [
+      "Drama"
+    ],
+    "poster": "Jo Jeeta Wohi Sikandar (1992).jpg"
+  },
+  {
+    "id": 378,
+    "title": "Sholay",
+    "year": 1975,
+    "genres": [
+      "Action"
+    ],
+    "poster": "Sholay (1975).jpg"
+  },
+  {
+    "id": 379,
+    "title": "The Legend of Bhagat Singh",
+    "year": 2002,
+    "genres": [
+      "Crime",
+      "Drama",
+      "History"
+    ],
+    "poster": "The Legend of Bhagat Singh (2002).jpg"
+  },
+  {
+    "id": 381,
+    "title": "Udaan",
+    "year": 1997,
+    "genres": [
+      "Action",
+      "Drama",
+      "Crime",
+      "Thriller"
+    ],
+    "poster": "Udaan (1997).jpg"
+  },
+  {
+    "id": 382,
+    "title": "Article 15",
+    "year": 2019,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "poster": "Article 15 (2019).jpg"
+  },
+  {
+    "id": 383,
+    "title": "Shershaah",
+    "year": 2021,
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller",
+      "War"
+    ],
+    "poster": "Shershaah (2021).jpg"
+  },
+  {
+    "id": 384,
+    "title": "K.G.F: Chapter 1",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Thriller",
+      "Adventure",
+      "Crime"
+    ],
+    "poster": "K.G.F Chapter 1 (2018).jpg"
+  },
+  {
+    "id": 385,
+    "title": "Jab We Met",
+    "year": 2007,
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Romance"
+    ],
+    "poster": "Jab We Met (2007).jpeg"
+  },
+  {
+    "id": 386,
+    "title": "Jolly LLB 2",
+    "year": 2017,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "poster": "Jolly LLB 2 (2017).jpg"
+  },
+  {
+    "id": 387,
+    "title": "Jolly LLB 3",
+    "year": 2025,
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "poster": "Jolly LLB 3 (2025).jpg"
+  },
+  {
+    "id": 388,
+    "title": "Saiyaara",
+    "year": 2025,
+    "genres": [
+      "Romance",
+      "Drama",
+      "Music"
+    ],
+    "poster": "Saiyaara (2025).jpg"
+  },
+  {
+    "id": 389,
+    "title": "Mahavatar Narsimha",
+    "year": 2025,
+    "genres": [
+      "Animation",
+      "Action",
+      "Fantasy",
+      "Drama"
+    ],
+    "poster": "Mahavatar Narsimha (2025).jpg"
+  },
+  {
+    "id": 391,
+    "title": "The Bengal Files",
+    "year": 2025,
+    "genres": [
+      "Drama",
+      "History",
+      "Thriller"
+    ],
+    "poster": "The Bengal Files (2025).jpg"
+  },
+  {
+    "id": 393,
+    "title": "War 2",
+    "year": 2025,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "poster": "War 2 (2025).jpg"
+  },
+  {
+    "id": 394,
+    "title": "Sitaare Zameen Par",
+    "year": 2025,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "poster": "Sitaare Zameen Par (2025).jpg"
+  },
+  {
+    "id": 395,
+    "title": "Raid 2",
+    "year": 2025,
+    "genres": [
+      "Drama",
+      "Crime",
+      "Thriller"
+    ],
+    "poster": "Raid 2 (2025).jpeg"
+  },
+  {
+    "id": 396,
+    "title": "Housefull 5",
+    "year": 2025,
+    "genres": [
+      "Comedy",
+      "Mystery",
+      "Thriller"
+    ],
+    "poster": "Housefull 5 (2025).jpg"
+  },
+  {
+    "id": 397,
+    "title": "Chhaava",
+    "year": 2025,
+    "genres": [
+      "History",
+      "Action",
+      "Drama"
+    ],
+    "poster": "Chhaava (2025).jpg"
+  },
+  {
+    "id": 398,
+    "title": "Kesari Chapter 2: The Untold Story of Jallianwala Bagh",
+    "year": 2025,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "poster": "Kesari Chapter 2 The Untold Story of Jallianwala Bagh (2025).jpg"
+  },
+  {
+    "id": 399,
+    "title": "Stree 2",
+    "year": 2024,
+    "genres": [
+      "Horror",
+      "Comedy"
+    ],
+    "poster": "Stree 2 (2024).jpg"
+  },
+  {
+    "id": 401,
+    "title": "October",
+    "year": 2018,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "poster": "October (2018).jpg"
+  },
+  {
+    "id": 403,
+    "title": "Sanam Teri Kasam",
+    "year": 2016,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "poster": "Sanam Teri Kasam (2016).jpg"
+  },
+  {
+    "id": 405,
+    "title": "OMG 2",
+    "year": 2023,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "poster": "OMG 2 (2023).jpg"
+  },
+  {
+    "id": 406,
+    "title": "Hum Saath Saath Hain",
+    "year": 1999,
+    "genres": [
+      "Romance",
+      "Family",
+      "Drama"
+    ],
+    "poster": "Hum Saath Saath Hain (1999).jpg"
+  },
+  {
+    "id": 407,
+    "title": "Salaam Bombay!",
+    "year": 1988,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "poster": "Salaam Bombay! (1988).jpg"
+  },
+  {
+    "id": 408,
+    "title": "Ramaiya Vastavaiya",
+    "year": 2013,
+    "genres": [
+      "Romance",
+      "Action",
+      "Comedy"
+    ],
+    "poster": "Ramaiya Vastavaiya (2013).jpeg"
+  },
+  {
+    "id": 409,
+    "title": "Ittefaq",
+    "year": 2001,
+    "genres": [],
+    "poster": "Ittefaq (2001).jpg"
+  },
+  {
+    "id": 411,
+    "title": "Chori Chori Chupke Chupke",
+    "year": 2001,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "poster": "Chori Chori Chupke Chupke (2001).jpg"
+  },
+  {
+    "id": 412,
+    "title": "Hate Story 2",
+    "year": 2014,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "poster": "Hate Story 2 (2014).jpg"
+  },
+  {
+    "id": 413,
+    "title": "Sooryavanshi",
+    "year": 2021,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "poster": "Sooryavanshi (2021).jpg"
+  },
+  {
+    "id": 414,
+    "title": "Hungama",
+    "year": 2005,
+    "genres": [
+      "Comedy"
+    ],
+    "poster": "Hungama (2003).jpg"
+  },
+  {
+    "id": 415,
+    "title": "Animal",
+    "year": 2023,
+    "genres": [
+      "Action",
+      "Drama",
+      "Crime"
+    ],
+    "poster": "Animal (2023).jpg"
+  },
+  {
+    "id": 416,
+    "title": "Rocky Aur Rani Kii Prem Kahaani",
+    "year": 2023,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family",
+      "Romance"
+    ],
+    "poster": "Rocky Aur Rani Kii Prem Kahaani (2023).jpg"
+  },
+  {
+    "id": 417,
+    "title": "Wake Up Sid",
+    "year": 2009,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "poster": "Wake Up Sid (2009).jpg"
+  },
+  {
+    "id": 418,
+    "title": "Delhi Belly",
+    "year": 2011,
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "poster": "Delhi Belly (2011).jpg"
+  },
+  {
+    "id": 419,
+    "title": "Baazigar",
+    "year": 1972,
+    "genres": [
+      "Thriller",
+      
+      "Romance"
+      
+    ],
+    "poster": "Baazigar (1993).jpg"
+  },
+  {
+    "id": 420,
+    "title": "Masoom",
+    "year": 1983,
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "poster": "Masoom (1983).jpg"
+  },
+  {
+    "id": 421,
+    "title": "Khiladi",
+    "year": 1992,
+    "genres": [
+      "Thriller",
+      "Romance"
+    ],
+    "poster": "Khiladi (1992).jpg"
+  },
+  {
+    
+    "id": 422,
+    "title": "Kill",
+    "year": 2023,
+    "genres": [
+      "Thriller",
+      "Action"
+    ],
+    "poster": "Kill (2023).jpg"
+  },
+  { 
+    "id": 423,
+    "title": "Mother India",
+    "year": 1957,
+    "genres": [
+      "Family",
+      "Music"
+    ],
+    "poster": "Mother India (1957).jpg"
+  },
+  { 
+    "id": 424,
+    "title": "Kabhi Alvida Naa Kehna",
+    "year": 2006,
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "poster": "Kabhi Alvida Naa Kehna (2006).jpg"
+  },
+  { 
+    "id": 425,
+    "title": "Achhut Kannya",
+    "year": 1936,
+    "genres": [
+      "Romance",
+      "Music"
+    ],
+    "poster": "Achhut Kannya (1936).jpeg"
+  }
+]
