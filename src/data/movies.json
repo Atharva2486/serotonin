@@ -364,10 +364,9 @@
     "title": "Soldier",
     "year": 1998,
     "genres": [
-      "Science Fiction",
       "Action",
       "Drama",
-      "Fantasy"
+      "Thriller"
     ],
     "poster": "Soldier (1998).jpg"
   },
@@ -2190,16 +2189,6 @@
   },
   {
     "id": 207,
-    "title": "Jolly LLB 2",
-    "year": 2017,
-    "genres": [
-      "Comedy",
-      "Crime"
-    ],
-    "poster": "Jolly LLB 2 (2017).jpg"
-  },
-  {
-    "id": 208,
     "title": "Kaabil",
     "year": 2017,
     "genres": [
@@ -2210,7 +2199,7 @@
     "poster": "Kaabil (2017).jpg"
   },
   {
-    "id": 209,
+    "id": 208,
     "title": "Sanju",
     "year": 2018,
     "genres": [
@@ -2220,7 +2209,7 @@
     "poster": "Sanju (2018).jpg"
   },
   {
-    "id": 210,
+    "id": 209,
     "title": "Padmaavat",
     "year": 2018,
     "genres": [
@@ -2231,7 +2220,7 @@
     "poster": "Padmaavat (2018).jpg"
   },
   {
-    "id": 211,
+    "id": 210,
     "title": "Simmba",
     "year": 2018,
     "genres": [
@@ -2243,7 +2232,7 @@
     "poster": "Simmba (2018).jpg"
   },
   {
-    "id": 212,
+    "id": 211,
     "title": "2.0",
     "year": 2018,
     "genres": [
@@ -2254,7 +2243,7 @@
     "poster": "2.0 (2018).jpg"
   },
   {
-    "id": 213,
+    "id": 212,
     "title": "Race 3",
     "year": 2018,
     "genres": [
@@ -2266,7 +2255,7 @@
     "poster": "Race 3 (2018).jpg"
   },
   {
-    "id": 214,
+    "id": 213,
     "title": "Baaghi 2",
     "year": 2018,
     "genres": [
@@ -2279,7 +2268,7 @@
     "poster": "Baaghi 2 (2018).jpg"
   },
   {
-    "id": 215,
+    "id": 214,
     "title": "Thugs of Hindostan",
     "year": 2018,
     "genres": [
@@ -2289,7 +2278,7 @@
     "poster": "Thugs of Hindostan (2018).jpg"
   },
   {
-    "id": 216,
+    "id": 215,
     "title": "Badhaai Ho",
     "year": 2018,
     "genres": [
@@ -2300,7 +2289,7 @@
     "poster": "Badhaai Ho (2018).jpg"
   },
   {
-    "id": 217,
+    "id": 216,
     "title": "The House on Mansfield Street",
     "year": 2018,
     "genres": [
@@ -2309,7 +2298,7 @@
     "poster": "The House on Mansfield Street (2018).jpg"
   },
   {
-    "id": 218,
+    "id": 217,
     "title": "Raazi",
     "year": 2018,
     "genres": [
@@ -2321,7 +2310,7 @@
     "poster": "Raazi (2018).jpg"
   },
   {
-    "id": 219,
+    "id": 218,
     "title": "War",
     "year": 2019,
     "genres": [
@@ -2332,7 +2321,7 @@
     "poster": "War (2019).jpg"
   },
   {
-    "id": 220,
+    "id": 219,
     "title": "Kabir Singh",
     "year": 2019,
     "genres": [
@@ -2342,7 +2331,7 @@
     "poster": "Kabir Singh (2019).jpg"
   },
   {
-    "id": 221,
+    "id": 220,
     "title": "Uri: The Surgical Strike",
     "year": 2019,
     "genres": [
@@ -2353,7 +2342,7 @@
     "poster": "Uri The Surgical Strike (2019).jpg"
   },
   {
-    "id": 222,
+    "id": 221,
     "title": "Housefull 4",
     "year": 2019,
     "genres": [
@@ -2364,7 +2353,7 @@
     "poster": "Housefull 4 (2019).jpg"
   },
   {
-    "id": 223,
+    "id": 222,
     "title": "Bharat",
     "year": 2019,
     "genres": [
@@ -2375,7 +2364,7 @@
     "poster": "Bharat (2019).jpg"
   },
   {
-    "id": 224,
+    "id": 223,
     "title": "Good Newwz",
     "year": 2019,
     "genres": [
@@ -2387,7 +2376,7 @@
     "poster": "Good Newwz (2019).jpg"
   },
   {
-    "id": 225,
+    "id": 224,
     "title": "Mission Mangal",
     "year": 2019,
     "genres": [
@@ -2397,7 +2386,7 @@
     "poster": "Mission Mangal (2019).jpg"
   },
   {
-    "id": 226,
+    "id": 225,
     "title": "Saaho",
     "year": 2019,
     "genres": [
@@ -2408,7 +2397,7 @@
     "poster": "Saaho (2019).jpg"
   },
   {
-    "id": 227,
+    "id": 226,
     "title": "Tanhaji: The Unsung Warrior",
     "year": 2020,
     "genres": [
@@ -2419,7 +2408,7 @@
     "poster": "Tanhaji The Unsung Warrior (2020).jpg"
   },
   {
-    "id": 228,
+    "id": 227,
     "title": "Baaghi 3",
     "year": 2020,
     "genres": [
@@ -2430,7 +2419,7 @@
     "poster": "Baaghi 3 (2020).jpg"
   },
   {
-    "id": 229,
+    "id": 228,
     "title": "Street Dancer 3D",
     "year": 2020,
     "genres": [
@@ -2439,7 +2428,7 @@
     "poster": "Street Dancer 3D (2020).jpg"
   },
   {
-    "id": 230,
+    "id": 229,
     "title": "Shubh Mangal Zyada Saavdhan",
     "year": 2020,
     "genres": [
@@ -2449,7 +2438,7 @@
     "poster": "Shubh Mangal Zyada Saavdhan (2020).jpg"
   },
   {
-    "id": 231,
+    "id": 230,
     "title": "Malang",
     "year": 2020,
     "genres": [
@@ -2462,7 +2451,7 @@
     "poster": "Malang (2020).jpg"
   },
   {
-    "id": 232,
+    "id": 231,
     "title": "Chhapaak",
     "year": 2020,
     "genres": [
@@ -2471,7 +2460,7 @@
     "poster": "Chhapaak (2020).jpg"
   },
   {
-    "id": 233,
+    "id": 232,
     "title": "Bhoot: Part One - The Haunted Ship",
     "year": 2020,
     "genres": [
@@ -2481,7 +2470,7 @@
     "poster": "Bhoot Part One - The Haunted Ship (2020).jpg"
   },
   {
-    "id": 234,
+    "id": 233,
     "title": "Thappad",
     "year": 2020,
     "genres": [
@@ -2490,7 +2479,7 @@
     "poster": "Thappad (2020).jpg"
   },
   {
-    "id": 235,
+    "id": 234,
     "title": "83",
     "year": 2021,
     "genres": [
@@ -2500,7 +2489,7 @@
     "poster": "83 (2021).jpg"
   },
   {
-    "id": 236,
+    "id": 235,
     "title": "Antim: The Final Truth",
     "year": 2021,
     "genres": [
@@ -2511,7 +2500,7 @@
     "poster": "Antim The Final Truth (2021).jpg"
   },
   {
-    "id": 237,
+    "id": 236,
     "title": "Bell Bottom",
     "year": 2021,
     "genres": [
@@ -2521,7 +2510,7 @@
     "poster": "Bell Bottom (2021).jpg"
   },
   {
-    "id": 238,
+    "id": 237,
     "title": "Tadap",
     "year": 2021,
     "genres": [
@@ -2531,7 +2520,7 @@
     "poster": "Tadap (2021).jpg"
   },
   {
-    "id": 239,
+    "id": 238,
     "title": "Roohi",
     "year": 2021,
     "genres": [
@@ -2541,7 +2530,7 @@
     "poster": "Roohi (2021).jpg"
   },
   {
-    "id": 240,
+    "id": 239,
     "title": "Mumbai Saga",
     "year": 2021,
     "genres": [
@@ -2552,7 +2541,7 @@
     "poster": "Mumbai Saga (2021).jpg"
   },
   {
-    "id": 241,
+    "id": 240,
     "title": "Bunty Aur Babli 2",
     "year": 2021,
     "genres": [
@@ -2563,7 +2552,7 @@
     "poster": "Bunty Aur Babli 2 (2021).jpg"
   },
   {
-    "id": 242,
+    "id": 241,
     "title": "K.G.F: Chapter 2",
     "year": 2022,
     "genres": [
@@ -2575,7 +2564,7 @@
     "poster": "K.G.F Chapter 2 (2022).jpg"
   },
   {
-    "id": 243,
+    "id": 242,
     "title": "RRR",
     "year": 2022,
     "genres": [
@@ -2586,7 +2575,7 @@
     "poster": "RRR (2022).jpg"
   },
   {
-    "id": 244,
+    "id": 243,
     "title": "Brahm\u0101stra Part One: Shiva",
     "year": 2022,
     "genres": [
@@ -2597,7 +2586,7 @@
     "poster": "Brahm\u0101stra Part One Shiva (2022).jpg"
   },
   {
-    "id": 245,
+    "id": 244,
     "title": "Bhool Bhulaiyaa 2",
     "year": 2022,
     "genres": [
@@ -2607,7 +2596,7 @@
     "poster": "Bhool Bhulaiyaa 2 (2022).jpg"
   },
   {
-    "id": 246,
+    "id": 245,
     "title": "The Kashmir Files",
     "year": 2022,
     "genres": [
@@ -2617,7 +2606,7 @@
     "poster": "The Kashmir Files (2022).jpg"
   },
   {
-    "id": 247,
+    "id": 246,
     "title": "Gangubai Kathiawadi",
     "year": 2022,
     "genres": [
@@ -2628,7 +2617,7 @@
     "poster": "Gangubai Kathiawadi (2022).jpg"
   },
   {
-    "id": 248,
+    "id": 247,
     "title": "JugJugg Jeeyo",
     "year": 2022,
     "genres": [
@@ -2638,7 +2627,7 @@
     "poster": "JugJugg Jeeyo (2022).jpg"
   },
   {
-    "id": 249,
+    "id": 248,
     "title": "Samrat Prithviraj",
     "year": 2022,
     "genres": [
@@ -2649,7 +2638,7 @@
     "poster": "Samrat Prithviraj (2022).jpg"
   },
   {
-    "id": 250,
+    "id": 249,
     "title": "Bhediya",
     "year": 2022,
     "genres": [
@@ -2659,7 +2648,7 @@
     "poster": "Bhediya (2022).jpg"
   },
   {
-    "id": 251,
+    "id": 250,
     "title": "Laal Singh Chaddha",
     "year": 2022,
     "genres": [
@@ -2671,7 +2660,7 @@
     "poster": "Laal Singh Chaddha (2022).jpg"
   },
   {
-    "id": 252,
+    "id": 251,
     "title": "Pathaan",
     "year": 2023,
     "genres": [
@@ -2682,7 +2671,7 @@
     "poster": "Pathaan (2023).jpg"
   },
   {
-    "id": 253,
+    "id": 252,
     "title": "Dream Girl 2",
     "year": 2023,
     "genres": [
@@ -2692,7 +2681,7 @@
     "poster": "Dream Girl 2 (2023).jpg"
   },
   {
-    "id": 254,
+    "id": 253,
     "title": "Jawan",
     "year": 2023,
     "genres": [
@@ -2703,7 +2692,7 @@
     "poster": "Jawan (2023).jpg"
   },
   {
-    "id": 255,
+    "id": 254,
     "title": "Fukrey 3",
     "year": 2023,
     "genres": [
@@ -2713,7 +2702,7 @@
     "poster": "Fukrey 3 (2023).jpg"
   },
   {
-    "id": 256,
+    "id": 255,
     "title": "Mission Raniganj",
     "year": 2023,
     "genres": [
@@ -2724,7 +2713,7 @@
     "poster": "Mission Raniganj (2023).jpg"
   },
   {
-    "id": 257,
+    "id": 256,
     "title": "Thank You For Coming",
     "year": 2023,
     "genres": [
@@ -2734,7 +2723,7 @@
     "poster": "Thank You For Coming (2023).jpg"
   },
   {
-    "id": 258,
+    "id": 257,
     "title": "Yaariyan 2",
     "year": 2023,
     "genres": [
@@ -2745,7 +2734,7 @@
     "poster": "Yaariyan 2 (2023).jpg"
   },
   {
-    "id": 259,
+    "id": 258,
     "title": "Tiger 3",
     "year": 2023,
     "genres": [
@@ -2756,7 +2745,7 @@
     "poster": "Tiger 3 (2023).jpg"
   },
   {
-    "id": 260,
+    "id": 259,
     "title": "Maidaan",
     "year": 2024,
     "genres": [
@@ -2765,7 +2754,7 @@
     "poster": "Maidaan (2024).jpg"
   },
   {
-    "id": 261,
+    "id": 260,
     "title": "Swatantrya Veer Savarkar",
     "year": 2024,
     "genres": [
@@ -2775,7 +2764,7 @@
     "poster": "Swatantrya Veer Savarkar (2024).jpg"
   },
   {
-    "id": 262,
+    "id": 261,
     "title": "Crew",
     "year": 2024,
     "genres": [
@@ -2785,7 +2774,7 @@
     "poster": "Crew (2024).jpg"
   },
   {
-    "id": 263,
+    "id": 262,
     "title": "Yodha",
     "year": 2024,
     "genres": [
@@ -2796,7 +2785,7 @@
     "poster": "Yodha (2024).jpg"
   },
   {
-    "id": 264,
+    "id": 263,
     "title": "Lost Ladies",
     "year": 2024,
     "genres": [
@@ -2807,7 +2796,7 @@
     "poster": "Lost Ladies (2024).jpg"
   },
   {
-    "id": 265,
+    "id": 264,
     "title": "Shaitaan",
     "year": 2024,
     "genres": [
@@ -2817,7 +2806,7 @@
     "poster": "Shaitaan (2024).jpg"
   },
   {
-    "id": 266,
+    "id": 265,
     "title": "Madgaon Express",
     "year": 2024,
     "genres": [
@@ -2827,7 +2816,7 @@
     "poster": "Madgaon Express (2024).jpg"
   },
   {
-    "id": 267,
+    "id": 266,
     "title": "Kuch Khattaa Ho Jaay",
     "year": 2024,
     "genres": [
@@ -2837,7 +2826,7 @@
     "poster": "Kuch Khattaa Ho Jaay (2024).jpg"
   },
   {
-    "id": 268,
+    "id": 267,
     "title": "Main Atal Hoon",
     "year": 2024,
     "genres": [
@@ -2846,7 +2835,7 @@
     "poster": "Main Atal Hoon (2024).jpg"
   },
   {
-    "id": 269,
+    "id": 268,
     "title": "Merry Christmas",
     "year": 2024,
     "genres": [
@@ -2856,7 +2845,7 @@
     "poster": "Merry Christmas (2024).jpg"
   },
   {
-    "id": 270,
+    "id": 269,
     "title": "Article 370",
     "year": 2024,
     "genres": [
@@ -2867,7 +2856,7 @@
     "poster": "Article 370 (2024).jpg"
   },
   {
-    "id": 271,
+    "id": 270,
     "title": "Teri Baaton Mein Aisa Uljha Jiya",
     "year": 2024,
     "genres": [
@@ -2878,18 +2867,7 @@
     "poster": "Teri Baaton Mein Aisa Uljha Jiya (2024).jpg"
   },
   {
-    "id": 272,
-    "title": "Animal",
-    "year": 2023,
-    "genres": [
-      "Action",
-      "Crime",
-      "Drama"
-    ],
-    "poster": "Animal (2023).jpg"
-  },
-  {
-    "id": 273,
+    "id": 271,
     "title": "Dunki",
     "year": 2023,
     "genres": [
@@ -2900,7 +2878,7 @@
     "poster": "Dunki (2023).jpg"
   },
   {
-    "id": 274,
+    "id": 272,
     "title": "Salaar: Part 1 - Ceasefire",
     "year": 2023,
     "genres": [
@@ -2911,7 +2889,7 @@
     "poster": "Salaar Part 1 - Ceasefire (2023).jpg"
   },
   {
-    "id": 275,
+    "id": 273,
     "title": "12th Fail",
     "year": 2023,
     "genres": [
@@ -2920,19 +2898,7 @@
     "poster": "12th Fail (2023).jpg"
   },
   {
-    "id": 276,
-    "title": "Rocky Aur Rani Kii Prem Kahaani",
-    "year": 2023,
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Family",
-      "Romance"
-    ],
-    "poster": "Rocky Aur Rani Kii Prem Kahaani (2023).jpg"
-  },
-  {
-    "id": 277,
+    "id": 274,
     "title": "Total Dhamaal",
     "year": 2019,
     "genres": [
@@ -2942,7 +2908,7 @@
     "poster": "Total Dhamaal (2019).jpg"
   },
   {
-    "id": 278,
+    "id": 275,
     "title": "Kesari",
     "year": 2019,
     "genres": [
@@ -2954,7 +2920,7 @@
     "poster": "Kesari (2019).jpg"
   },
   {
-    "id": 279,
+    "id": 276,
     "title": "Chhichhore",
     "year": 2019,
     "genres": [
@@ -2965,7 +2931,7 @@
     "poster": "Chhichhore (2019).jpg"
   },
   {
-    "id": 280,
+    "id": 277,
     "title": "Super 30",
     "year": 2019,
     "genres": [
@@ -2974,7 +2940,7 @@
     "poster": "Super 30 (2019).jpg"
   },
   {
-    "id": 281,
+    "id": 278,
     "title": "Sitara: Let Girls Dream",
     "year": 2019,
     "genres": [
@@ -2984,7 +2950,7 @@
     "poster": "Sitara Let Girls Dream (2019).jpg"
   },
   {
-    "id": 282,
+    "id": 279,
     "title": "Dabangg 3",
     "year": 2019,
     "genres": [
@@ -2995,7 +2961,7 @@
     "poster": "Dabangg 3 (2019).jpg"
   },
   {
-    "id": 283,
+    "id": 280,
     "title": "Gully Boy",
     "year": 2019,
     "genres": [
@@ -3005,17 +2971,7 @@
     "poster": "Gully Boy (2019).jpg"
   },
   {
-    "id": 284,
-    "title": "Kodathi Samaksham Balan Vakeel",
-    "year": 2019,
-    "genres": [
-      "Comedy",
-      "Thriller"
-    ],
-    "poster": "Kodathi Samaksham Balan Vakeel (2019).jpg"
-  },
-  {
-    "id": 285,
+    "id": 281,
     "title": "De De Pyaar De",
     "year": 2019,
     "genres": [
@@ -3025,7 +2981,7 @@
     "poster": "De De Pyaar De (2019).jpg"
   },
   {
-    "id": 286,
+    "id": 282,
     "title": "Manikarnika: The Queen of Jhansi",
     "year": 2019,
     "genres": [
@@ -3036,7 +2992,7 @@
     "poster": "Manikarnika The Queen of Jhansi (2019).jpg"
   },
   {
-    "id": 287,
+    "id": 283,
     "title": "Luka Chuppi",
     "year": 2019,
     "genres": [
@@ -3046,7 +3002,7 @@
     "poster": "Luka Chuppi (2019).jpg"
   },
   {
-    "id": 288,
+    "id": 284,
     "title": "Batla House",
     "year": 2019,
     "genres": [
@@ -3057,7 +3013,7 @@
     "poster": "Batla House (2019).jpg"
   },
   {
-    "id": 289,
+    "id": 285,
     "title": "Kalank",
     "year": 2019,
     "genres": [
@@ -3067,7 +3023,7 @@
     "poster": "Kalank (2019).jpg"
   },
   {
-    "id": 290,
+    "id": 286,
     "title": "Student of the Year 2",
     "year": 2019,
     "genres": [
@@ -3078,18 +3034,7 @@
     "poster": "Student of the Year 2 (2019).jpg"
   },
   {
-    "id": 291,
-    "title": "Article 15",
-    "year": 2019,
-    "genres": [
-      "Crime",
-      "Drama",
-      "Thriller"
-    ],
-    "poster": "Article 15 (2019).jpg"
-  },
-  {
-    "id": 292,
+    "id": 287,
     "title": "Mardaani 2",
     "year": 2019,
     "genres": [
@@ -3100,7 +3045,7 @@
     "poster": "Mardaani 2 (2019).jpg"
   },
   {
-    "id": 293,
+    "id": 288,
     "title": "Marjaavaan",
     "year": 2019,
     "genres": [
@@ -3110,17 +3055,17 @@
     "poster": "Marjaavaan (2019).jpg"
   },
   {
-    "id": 294,
+    "id": 289,
     "title": "Romeo Akbar Walter",
     "year": 2019,
     "genres": [
       "Action",
       "Thriller"
     ],
-    "poster": "Romeo Akbar Walter (2019).jpg"
+    "poster": "Romeo Akbar Walter (2019).jpeg"
   },
   {
-    "id": 295,
+    "id": 290,
     "title": "Panipat",
     "year": 2019,
     "genres": [
@@ -3132,7 +3077,7 @@
     "poster": "Panipat (2019).jpg"
   },
   {
-    "id": 296,
+    "id": 291,
     "title": "Sonu Ke Titu Ki Sweety",
     "year": 2018,
     "genres": [
@@ -3142,7 +3087,7 @@
     "poster": "Sonu Ke Titu Ki Sweety (2018).jpg"
   },
   {
-    "id": 297,
+    "id": 292,
     "title": "Raid",
     "year": 2018,
     "genres": [
@@ -3153,7 +3098,7 @@
     "poster": "Raid (2018).jpg"
   },
   {
-    "id": 298,
+    "id": 293,
     "title": "Zero",
     "year": 2018,
     "genres": [
@@ -3163,7 +3108,7 @@
     "poster": "Zero (2018).jpg"
   },
   {
-    "id": 299,
+    "id": 294,
     "title": "Veere Di Wedding",
     "year": 2018,
     "genres": [
@@ -3173,17 +3118,17 @@
     "poster": "Veere Di Wedding (2018).jpg"
   },
   {
-    "id": 300,
+    "id": 295,
     "title": "Satyameva Jayate",
     "year": 2018,
     "genres": [
       "Action",
       "Thriller"
     ],
-    "poster": "Satyameva Jayate (2018).jpg"
+    "poster": "Satyameva Jayate (2018).jpeg"
   },
   {
-    "id": 301,
+    "id": 296,
     "title": "Sui Dhaaga - Made in India",
     "year": 2018,
     "genres": [
@@ -3194,19 +3139,7 @@
     "poster": "Sui Dhaaga - Made in India (2018).jpg"
   },
   {
-    "id": 302,
-    "title": "Andhadhun",
-    "year": 2018,
-    "genres": [
-      "Crime",
-      "Mystery",
-      "Thriller",
-      "Comedy"
-    ],
-    "poster": "Andhadhun (2018).jpg"
-  },
-  {
-    "id": 303,
+    "id": 297,
     "title": "Dhadak",
     "year": 2018,
     "genres": [
@@ -3217,7 +3150,7 @@
     "poster": "Dhadak (2018).jpg"
   },
   {
-    "id": 304,
+    "id": 298,
     "title": "Kedarnath",
     "year": 2018,
     "genres": [
@@ -3226,7 +3159,7 @@
     "poster": "Kedarnath (2018).jpg"
   },
   {
-    "id": 305,
+    "id": 299,
     "title": "Parmanu: The Story of Pokhran",
     "year": 2018,
     "genres": [
@@ -3237,7 +3170,7 @@
     "poster": "Parmanu The Story of Pokhran (2018).jpg"
   },
   {
-    "id": 306,
+    "id": 300,
     "title": "102 Not Out",
     "year": 2018,
     "genres": [
@@ -3248,7 +3181,7 @@
     "poster": "102 Not Out (2018).jpg"
   },
   {
-    "id": 307,
+    "id": 301,
     "title": "Hichki",
     "year": 2018,
     "genres": [
@@ -3258,7 +3191,7 @@
     "poster": "Hichki (2018).jpg"
   },
   {
-    "id": 308,
+    "id": 302,
     "title": "Judwaa 2",
     "year": 2017,
     "genres": [
@@ -3269,7 +3202,7 @@
     "poster": "Judwaa 2 (2017).jpg"
   },
   {
-    "id": 309,
+    "id": 303,
     "title": "Fukrey Returns",
     "year": 2017,
     "genres": [
@@ -3279,17 +3212,17 @@
     "poster": "Fukrey Returns (2017).jpg"
   },
   {
-    "id": 310,
+    "id": 304,
     "title": "Baadshaho",
     "year": 2017,
     "genres": [
       "Action",
       "Thriller"
     ],
-    "poster": "Baadshaho (2017).jpg"
+    "poster": "Baadshaho (2017).jpeg"
   },
   {
-    "id": 311,
+    "id": 305,
     "title": "Secret Superstar",
     "year": 2017,
     "genres": [
@@ -3299,7 +3232,7 @@
     "poster": "Secret Superstar (2017).jpg"
   },
   {
-    "id": 312,
+    "id": 306,
     "title": "Jab Harry Met Sejal",
     "year": 2017,
     "genres": [
@@ -3310,7 +3243,7 @@
     "poster": "Jab Harry Met Sejal (2017).jpg"
   },
   {
-    "id": 313,
+    "id": 307,
     "title": "Hindi Medium",
     "year": 2017,
     "genres": [
@@ -3320,7 +3253,7 @@
     "poster": "Hindi Medium (2017).jpg"
   },
   {
-    "id": 314,
+    "id": 308,
     "title": "Half Girlfriend",
     "year": 2017,
     "genres": [
@@ -3330,7 +3263,7 @@
     "poster": "Half Girlfriend (2017).jpg"
   },
   {
-    "id": 315,
+    "id": 309,
     "title": "Mubarakan",
     "year": 2017,
     "genres": [
@@ -3340,7 +3273,7 @@
     "poster": "Mubarakan (2017).jpg"
   },
   {
-    "id": 316,
+    "id": 310,
     "title": "Jagga Jasoos",
     "year": 2017,
     "genres": [
@@ -3349,10 +3282,10 @@
       "Mystery",
       "Romance"
     ],
-    "poster": "Jagga Jasoos (2017).jpg"
+    "poster": "Jagga Jasoos (2017).jpeg"
   },
   {
-    "id": 317,
+    "id": 311,
     "title": "Shubh Mangal Saavdhan",
     "year": 2017,
     "genres": [
@@ -3362,7 +3295,7 @@
     "poster": "Shubh Mangal Saavdhan (2017).jpg"
   },
   {
-    "id": 318,
+    "id": 312,
     "title": "Sachin: A Billion Dreams",
     "year": 2017,
     "genres": [
@@ -3372,7 +3305,7 @@
     "poster": "Sachin A Billion Dreams (2017).jpg"
   },
   {
-    "id": 319,
+    "id": 313,
     "title": "Naam Shabana",
     "year": 2017,
     "genres": [
@@ -3381,7 +3314,7 @@
     "poster": "Naam Shabana (2017).jpg"
   },
   {
-    "id": 320,
+    "id": 314,
     "title": "Bareilly Ki Barfi",
     "year": 2017,
     "genres": [
@@ -3391,17 +3324,17 @@
     "poster": "Bareilly Ki Barfi (2017).jpg"
   },
   {
-    "id": 321,
+    "id": 315,
     "title": "Tumhari Sulu",
     "year": 2017,
     "genres": [
       "Comedy",
       "Drama"
     ],
-    "poster": "Tumhari Sulu (2017).jpg"
+    "poster": "Tumhari Sulu (2017).jpeg"
   },
   {
-    "id": 322,
+    "id": 316,
     "title": "Ae Dil Hai Mushkil",
     "year": 2016,
     "genres": [
@@ -3411,7 +3344,7 @@
     "poster": "Ae Dil Hai Mushkil (2016).jpg"
   },
   {
-    "id": 323,
+    "id": 317,
     "title": "Kapoor & Sons",
     "year": 2016,
     "genres": [
@@ -3423,7 +3356,7 @@
     "poster": "Kapoor & Sons (2016).jpg"
   },
   {
-    "id": 324,
+    "id": 318,
     "title": "Dishoom",
     "year": 2016,
     "genres": [
@@ -3433,7 +3366,7 @@
     "poster": "Dishoom (2016).jpg"
   },
   {
-    "id": 325,
+    "id": 319,
     "title": "Dear Zindagi",
     "year": 2016,
     "genres": [
@@ -3443,7 +3376,7 @@
     "poster": "Dear Zindagi (2016).jpg"
   },
   {
-    "id": 326,
+    "id": 320,
     "title": "Neerja",
     "year": 2016,
     "genres": [
@@ -3453,7 +3386,7 @@
     "poster": "Neerja (2016).jpg"
   },
   {
-    "id": 327,
+    "id": 321,
     "title": "Pink",
     "year": 2016,
     "genres": [
@@ -3462,7 +3395,7 @@
     "poster": "Pink (2016).jpg"
   },
   {
-    "id": 328,
+    "id": 322,
     "title": "Befikre",
     "year": 2016,
     "genres": [
@@ -3473,7 +3406,7 @@
     "poster": "Befikre (2016).jpg"
   },
   {
-    "id": 329,
+    "id": 323,
     "title": "Udta Punjab",
     "year": 2016,
     "genres": [
@@ -3483,7 +3416,7 @@
     "poster": "Udta Punjab (2016).jpg"
   },
   {
-    "id": 330,
+    "id": 324,
     "title": "Mohenjo Daro",
     "year": 2016,
     "genres": [
@@ -3492,10 +3425,10 @@
       "History",
       "Romance"
     ],
-    "poster": "Mohenjo Daro (2016).jpg"
+    "poster": "Mohenjo Daro (2016).jpeg"
   },
   {
-    "id": 331,
+    "id": 325,
     "title": "Do Lafzon Ki Kahani",
     "year": 2016,
     "genres": [
@@ -3503,10 +3436,10 @@
       "Romance",
       "Action"
     ],
-    "poster": "Do Lafzon Ki Kahani (2016).jpg"
+    "poster": "Do Lafzon Ki Kahani (2016).jpeg"
   },
   {
-    "id": 332,
+    "id": 326,
     "title": "Chennai Express",
     "year": 2013,
     "genres": [
@@ -3517,7 +3450,7 @@
     "poster": "Chennai Express (2013).jpg"
   },
   {
-    "id": 333,
+    "id": 327,
     "title": "R... Rajkumar",
     "year": 2013,
     "genres": [
@@ -3527,7 +3460,7 @@
     "poster": "R... Rajkumar (2013).jpg"
   },
   {
-    "id": 334,
+    "id": 328,
     "title": "Special 26",
     "year": 2013,
     "genres": [
@@ -3538,17 +3471,17 @@
     "poster": "Special 26 (2013).jpg"
   },
   {
-    "id": 335,
+    "id": 329,
     "title": "Raanjhanaa",
     "year": 2013,
     "genres": [
       "Drama",
       "Romance"
     ],
-    "poster": "Raanjhanaa (2013).jpg"
+    "poster": "Raanjhanaa (2013).jpeg"
   },
   {
-    "id": 336,
+    "id": 330,
     "title": "Once Upon a Time in Mumbai Dobaara!",
     "year": 2013,
     "genres": [
@@ -3559,7 +3492,7 @@
     "poster": "Once Upon a Time in Mumbai Dobaara! (2013).jpg"
   },
   {
-    "id": 337,
+    "id": 331,
     "title": "Besharam",
     "year": 2013,
     "genres": [
@@ -3569,16 +3502,7 @@
     "poster": "Besharam (2013).jpg"
   },
   {
-    "id": 338,
-    "title": "The Revolution Has Begun",
-    "year": 2013,
-    "genres": [
-      "Drama"
-    ],
-    "poster": "The Revolution Has Begun (2013).jpg"
-  },
-  {
-    "id": 339,
+    "id": 332,
     "title": "Shootout at Wadala",
     "year": 2013,
     "genres": [
@@ -3590,7 +3514,7 @@
     "poster": "Shootout at Wadala (2013).jpg"
   },
   {
-    "id": 340,
+    "id": 333,
     "title": "Boss",
     "year": 2013,
     "genres": [
@@ -3601,17 +3525,17 @@
     "poster": "Boss (2013).jpg"
   },
   {
-    "id": 341,
+    "id": 334,
     "title": "Shuddh Desi Romance",
     "year": 2013,
     "genres": [
       "Drama",
       "Romance"
     ],
-    "poster": "Shuddh Desi Romance (2013).jpg"
+    "poster": "Shuddh Desi Romance (2013).jpeg"
   },
   {
-    "id": 342,
+    "id": 335,
     "title": "Kai Po Che!",
     "year": 2013,
     "genres": [
@@ -3620,7 +3544,7 @@
     "poster": "Kai Po Che! (2013).jpg"
   },
   {
-    "id": 343,
+    "id": 336,
     "title": "Madras Cafe",
     "year": 2013,
     "genres": [
@@ -3631,7 +3555,7 @@
     "poster": "Madras Cafe (2013).jpg"
   },
   {
-    "id": 344,
+    "id": 337,
     "title": "Himmatwala",
     "year": 2013,
     "genres": [
@@ -3642,7 +3566,7 @@
     "poster": "Himmatwala (2013).jpg"
   },
   {
-    "id": 345,
+    "id": 338,
     "title": "ABCD",
     "year": 2013,
     "genres": [
@@ -3651,7 +3575,7 @@
     "poster": "ABCD (2013).jpg"
   },
   {
-    "id": 346,
+    "id": 339,
     "title": "OMG: Oh My God!",
     "year": 2012,
     "genres": [
@@ -3662,7 +3586,7 @@
     "poster": "OMG Oh My God! (2012).jpg"
   },
   {
-    "id": 347,
+    "id": 340,
     "title": "Cocktail",
     "year": 2012,
     "genres": [
@@ -3673,7 +3597,7 @@
     "poster": "Cocktail (2012).jpg"
   },
   {
-    "id": 348,
+    "id": 341,
     "title": "Raaz 3",
     "year": 2012,
     "genres": [
@@ -3683,17 +3607,17 @@
     "poster": "Raaz 3 (2012).jpg"
   },
   {
-    "id": 349,
+    "id": 342,
     "title": "Khiladi 786",
     "year": 2012,
     "genres": [
       "Action",
       "Comedy"
     ],
-    "poster": "Khiladi 786 (2012).jpg"
+    "poster": "Khiladi 786 (2012).jpeg"
   },
   {
-    "id": 350,
+    "id": 343,
     "title": "Teri Meri Kahaani",
     "year": 2012,
     "genres": [
@@ -3704,7 +3628,7 @@
     "poster": "Teri Meri Kahaani (2012).jpg"
   },
   {
-    "id": 351,
+    "id": 344,
     "title": "Ishaqzaade",
     "year": 2012,
     "genres": [
@@ -3715,7 +3639,7 @@
     "poster": "Ishaqzaade (2012).jpg"
   },
   {
-    "id": 352,
+    "id": 345,
     "title": "Ek Villain Returns",
     "year": 2022,
     "genres": [
@@ -3726,7 +3650,7 @@
     "poster": "Ek Villain Returns (2022).jpg"
   },
   {
-    "id": 353,
+    "id": 346,
     "title": "Rocketry: The Nambi Effect",
     "year": 2022,
     "genres": [
@@ -3736,7 +3660,7 @@
     "poster": "Rocketry The Nambi Effect (2022).jpg"
   },
   {
-    "id": 354,
+    "id": 347,
     "title": "Angrezi Medium",
     "year": 2020,
     "genres": [
@@ -3746,18 +3670,7 @@
     "poster": "Angrezi Medium (2020).jpg"
   },
   {
-    "id": 355,
-    "title": "Chhichhore",
-    "year": 2019,
-    "genres": [
-      "Romance",
-      "Comedy",
-      "Drama"
-    ],
-    "poster": "Chhichhore (2019).jpg"
-  },
-  {
-    "id": 356,
+    "id": 348,
     "title": "Dil Dhadakne Do",
     "year": 2015,
     "genres": [
@@ -3768,7 +3681,7 @@
     "poster": "Dil Dhadakne Do (2015).jpg"
   },
   {
-    "id": 357,
+    "id": 349,
     "title": "Pyaar Ka Punchnama 2",
     "year": 2015,
     "genres": [
@@ -3779,7 +3692,7 @@
     "poster": "Pyaar Ka Punchnama 2 (2015).jpg"
   },
   {
-    "id": 358,
+    "id": 350,
     "title": "Badlapur",
     "year": 2015,
     "genres": [
@@ -3791,7 +3704,7 @@
     "poster": "Badlapur (2015).jpg"
   },
   {
-    "id": 359,
+    "id": 351,
     "title": "Hate Story 3",
     "year": 2015,
     "genres": [
@@ -3801,7 +3714,7 @@
     "poster": "Hate Story 3 (2015).jpg"
   },
   {
-    "id": 360,
+    "id": 352,
     "title": "Humpty Sharma Ki Dulhania",
     "year": 2014,
     "genres": [
@@ -3812,7 +3725,7 @@
     "poster": "Humpty Sharma Ki Dulhania (2014).jpg"
   },
   {
-    "id": 361,
+    "id": 353,
     "title": "Entertainment",
     "year": 2015,
     "genres": [
@@ -3822,7 +3735,7 @@
     "poster": "Entertainment (2015).jpg"
   },
   {
-    "id": 362,
+    "id": 354,
     "title": "Mary Kom",
     "year": 2014,
     "genres": [
@@ -3830,10 +3743,10 @@
       "Drama",
       "History"
     ],
-    "poster": "Mary Kom (2014).jpg"
+    "poster": "Mary Kom (2014).jpeg"
   },
   {
-    "id": 363,
+    "id": 355,
     "title": "Main Tera Hero",
     "year": 2014,
     "genres": [
@@ -3843,7 +3756,7 @@
     "poster": "Main Tera Hero (2014).jpg"
   },
   {
-    "id": 364,
+    "id": 356,
     "title": "Heropanti",
     "year": 2014,
     "genres": [
@@ -3853,7 +3766,7 @@
     "poster": "Heropanti (2014).jpg"
   },
   {
-    "id": 365,
+    "id": 357,
     "title": "Ragini MMS 2",
     "year": 2014,
     "genres": [
@@ -3862,14 +3775,14 @@
     "poster": "Ragini MMS 2 (2014).jpg"
   },
   {
-    "id": 366,
+    "id": 358,
     "title": "Yaariyan",
     "year": 2008,
     "genres": [],
     "poster": "Yaariyan (2008).jpg"
   },
   {
-    "id": 367,
+    "id": 359,
     "title": "Hasee Toh Phasee",
     "year": 2014,
     "genres": [
@@ -3879,7 +3792,7 @@
     "poster": "Hasee Toh Phasee (2014).jpg"
   },
   {
-    "id": 368,
+    "id": 360,
     "title": "Bhoothnath Returns",
     "year": 2014,
     "genres": [
@@ -3890,17 +3803,7 @@
     "poster": "Bhoothnath Returns (2014).jpg"
   },
   {
-    "id": 369,
-    "title": "Tanu Weds Manu: Returns",
-    "year": 2015,
-    "genres": [
-      "Comedy",
-      "Romance"
-    ],
-    "poster": "Tanu Weds Manu Returns (2015).jpg"
-  },
-  {
-    "id": 370,
+    "id": 361,
     "title": "Gol Maal",
     "year": 1979,
     "genres": [
@@ -3909,7 +3812,7 @@
     "poster": "Gol Maal (1979).jpg"
   },
   {
-    "id": 371,
+    "id": 362,
     "title": "Apur Sansar",
     "year": 1959,
     "genres": [
@@ -3918,17 +3821,7 @@
     "poster": "Apur Sansar (1959).jpg"
   },
   {
-    "id": 372,
-    "title": "From Back Home",
-    "year": 2024,
-    "genres": [
-      "War",
-      "Drama"
-    ],
-    "poster": "From Back Home (2024).jpg"
-  },
-  {
-    "id": 373,
+    "id": 363,
     "title": "777 Charlie",
     "year": 2022,
     "genres": [
@@ -3939,7 +3832,7 @@
     "poster": "777 Charlie (2022).jpg"
   },
   {
-    "id": 374,
+    "id": 364,
     "title": "Black Friday",
     "year": 2007,
     "genres": [
@@ -3951,16 +3844,7 @@
     "poster": "Black Friday (2007).jpg"
   },
   {
-    "id": 375,
-    "title": "Like Stars on Earth",
-    "year": 2007,
-    "genres": [
-      "Drama"
-    ],
-    "poster": "Like Stars on Earth (2007).jpg"
-  },
-  {
-    "id": 376,
+    "id": 365,
     "title": "Jersey",
     "year": 2020,
     "genres": [
@@ -3969,7 +3853,7 @@
     "poster": "Jersey (2020).jpg"
   },
   {
-    "id": 377,
+    "id": 366,
     "title": "96",
     "year": 2018,
     "genres": [
@@ -3978,18 +3862,7 @@
     "poster": "96 (2018).jpg"
   },
   {
-    "id": 378,
-    "title": "Dangal",
-    "year": 2016,
-    "genres": [
-      "Drama",
-      "Family",
-      "Comedy"
-    ],
-    "poster": "Dangal (2016).jpg"
-  },
-  {
-    "id": 379,
+    "id": 367,
     "title": "Natsamrat",
     "year": 2016,
     "genres": [
@@ -3998,7 +3871,7 @@
     "poster": "Natsamrat (2016).jpg"
   },
   {
-    "id": 380,
+    "id": 368,
     "title": "Drishyam 2",
     "year": 2022,
     "genres": [
@@ -4010,7 +3883,7 @@
     "poster": "Drishyam 2 (2022).jpg"
   },
   {
-    "id": 381,
+    "id": 369,
     "title": "Jaane Bhi Do Yaaro",
     "year": 1983,
     "genres": [
@@ -4020,7 +3893,7 @@
     "poster": "Jaane Bhi Do Yaaro (1983).jpg"
   },
   {
-    "id": 382,
+    "id": 370,
     "title": "Hera Pheri",
     "year": 2000,
     "genres": [
@@ -4030,7 +3903,7 @@
     "poster": "Hera Pheri (2000).jpg"
   },
   {
-    "id": 383,
+    "id": 371,
     "title": "Sardar Udham",
     "year": 2021,
     "genres": [
@@ -4041,7 +3914,7 @@
     "poster": "Sardar Udham (2021).jpg"
   },
   {
-    "id": 384,
+    "id": 372,
     "title": "Thirst",
     "year": 2016,
     "genres": [
@@ -4052,7 +3925,7 @@
     "poster": "Thirst (2016).jpg"
   },
   {
-    "id": 385,
+    "id": 373,
     "title": "Andhadhun",
     "year": 2018,
     "genres": [
@@ -4064,16 +3937,7 @@
     "poster": "Andhadhun (2018).jpg"
   },
   {
-    "id": 386,
-    "title": "Swades",
-    "year": 2004,
-    "genres": [
-      "Drama"
-    ],
-    "poster": "Swades (2004).jpg"
-  },
-  {
-    "id": 387,
+    "id": 374,
     "title": "Tumbbad",
     "year": 2018,
     "genres": [
@@ -4083,7 +3947,7 @@
     "poster": "Tumbbad (2018).jpg"
   },
   {
-    "id": 388,
+    "id": 375,
     "title": "Shahid",
     "year": 2024,
     "genres": [
@@ -4092,7 +3956,7 @@
     "poster": "Shahid (2024).jpg"
   },
   {
-    "id": 389,
+    "id": 376,
     "title": "Sairat",
     "year": 2016,
     "genres": [
@@ -4102,7 +3966,7 @@
     "poster": "Sairat (2016).jpg"
   },
   {
-    "id": 390,
+    "id": 377,
     "title": "Jo Jeeta Wohi Sikandar",
     "year": 1992,
     "genres": [
@@ -4111,38 +3975,7 @@
     "poster": "Jo Jeeta Wohi Sikandar (1992).jpg"
   },
   {
-    "id": 391,
-    "title": "The Hero",
-    "year": 2017,
-    "genres": [
-      "Drama"
-    ],
-    "poster": "The Hero (2017).jpg"
-  },
-  {
-    "id": 392,
-    "title": "Lagaan: Once Upon a Time in India",
-    "year": 2001,
-    "genres": [
-      "Adventure",
-      "Drama",
-      "History"
-    ],
-    "poster": "Lagaan Once Upon a Time in India (2001).jpg"
-  },
-  {
-    "id": 393,
-    "title": "Barfi!",
-    "year": 2012,
-    "genres": [
-      "Drama",
-      "Romance",
-      "Comedy"
-    ],
-    "poster": "Barfi! (2012).jpg"
-  },
-  {
-    "id": 394,
+    "id": 378,
     "title": "Sholay",
     "year": 1975,
     "genres": [
@@ -4151,7 +3984,7 @@
     "poster": "Sholay (1975).jpg"
   },
   {
-    "id": 395,
+    "id": 379,
     "title": "The Legend of Bhagat Singh",
     "year": 2002,
     "genres": [
@@ -4162,25 +3995,14 @@
     "poster": "The Legend of Bhagat Singh (2002).jpg"
   },
   {
-    "id": 396,
+    "id": 380,
     "title": "Angoor",
     "year": 2005,
     "genres": [],
     "poster": "Angoor (2005).jpg"
   },
   {
-    "id": 397,
-    "title": "Uri: The Surgical Strike",
-    "year": 2019,
-    "genres": [
-      "Action",
-      "Drama",
-      "War"
-    ],
-    "poster": "Uri The Surgical Strike (2019).jpg"
-  },
-  {
-    "id": 398,
+    "id": 381,
     "title": "Udaan",
     "year": 1997,
     "genres": [
@@ -4192,18 +4014,7 @@
     "poster": "Udaan (1997).jpg"
   },
   {
-    "id": 399,
-    "title": "OMG: Oh My God!",
-    "year": 2012,
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Fantasy"
-    ],
-    "poster": "OMG Oh My God! (2012).jpg"
-  },
-  {
-    "id": 400,
+    "id": 382,
     "title": "Article 15",
     "year": 2019,
     "genres": [
@@ -4214,35 +4025,7 @@
     "poster": "Article 15 (2019).jpg"
   },
   {
-    "id": 401,
-    "title": "Rocky Aur Rani Kii Prem Kahaani",
-    "year": 2023,
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Family",
-      "Romance"
-    ],
-    "poster": "Rocky Aur Rani Kii Prem Kahaani (2023).jpg"
-  },
-  {
-    "id": 402,
-    "title": "PINK",
-    "year": 2024,
-    "genres": [],
-    "poster": "PINK (2024).jpg"
-  },
-  {
-    "id": 403,
-    "title": "Super 30",
-    "year": 2019,
-    "genres": [
-      "Drama"
-    ],
-    "poster": "Super 30 (2019).jpg"
-  },
-  {
-    "id": 404,
+    "id": 383,
     "title": "Shershaah",
     "year": 2021,
     "genres": [
@@ -4254,7 +4037,7 @@
     "poster": "Shershaah (2021).jpg"
   },
   {
-    "id": 405,
+    "id": 384,
     "title": "K.G.F: Chapter 1",
     "year": 2018,
     "genres": [
@@ -4266,19 +4049,7 @@
     "poster": "K.G.F Chapter 1 (2018).jpg"
   },
   {
-    "id": 406,
-    "title": "K.G.F: Chapter 2",
-    "year": 2022,
-    "genres": [
-      "Action",
-      "Thriller",
-      "Adventure",
-      "Crime"
-    ],
-    "poster": "K.G.F Chapter 2 (2022).jpg"
-  },
-  {
-    "id": 407,
+    "id": 385,
     "title": "Jab We Met",
     "year": 2007,
     "genres": [
@@ -4286,20 +4057,10 @@
       "Comedy",
       "Romance"
     ],
-    "poster": "Jab We Met (2007).jpg"
+    "poster": "Jab We Met (2007).jpeg"
   },
   {
-    "id": 408,
-    "title": "Jolly LLB 3",
-    "year": 2025,
-    "genres": [
-      "Drama",
-      "Comedy"
-    ],
-    "poster": "Jolly LLB 3 (2025).jpg"
-  },
-  {
-    "id": 409,
+    "id": 386,
     "title": "Jolly LLB 2",
     "year": 2017,
     "genres": [
@@ -4309,7 +4070,7 @@
     "poster": "Jolly LLB 2 (2017).jpg"
   },
   {
-    "id": 410,
+    "id": 387,
     "title": "Jolly LLB 3",
     "year": 2025,
     "genres": [
@@ -4319,7 +4080,7 @@
     "poster": "Jolly LLB 3 (2025).jpg"
   },
   {
-    "id": 411,
+    "id": 388,
     "title": "Saiyaara",
     "year": 2025,
     "genres": [
@@ -4330,7 +4091,7 @@
     "poster": "Saiyaara (2025).jpg"
   },
   {
-    "id": 412,
+    "id": 389,
     "title": "Mahavatar Narsimha",
     "year": 2025,
     "genres": [
@@ -4342,7 +4103,7 @@
     "poster": "Mahavatar Narsimha (2025).jpg"
   },
   {
-    "id": 413,
+    "id": 390,
     "title": "Dhadak 2",
     "year": 2025,
     "genres": [
@@ -4352,19 +4113,7 @@
     "poster": "Dhadak 2 (2025).jpg"
   },
   {
-    "id": 414,
-    "title": "Homebound",
-    "year": 2022,
-    "genres": [
-      "Mystery",
-      "Thriller",
-      "Drama",
-      "Horror"
-    ],
-    "poster": "Homebound (2022).jpg"
-  },
-  {
-    "id": 415,
+    "id": 391,
     "title": "The Bengal Files",
     "year": 2025,
     "genres": [
@@ -4375,7 +4124,7 @@
     "poster": "The Bengal Files (2025).jpg"
   },
   {
-    "id": 416,
+    "id": 392,
     "title": "Baaghi 4",
     "year": 2025,
     "genres": [
@@ -4385,41 +4134,7 @@
     "poster": "Baaghi 4 (2025).jpg"
   },
   {
-    "id": 417,
-    "title": "Baaghi 3",
-    "year": 2020,
-    "genres": [
-      "Action",
-      "Adventure",
-      "Thriller"
-    ],
-    "poster": "Baaghi 3 (2020).jpg"
-  },
-  {
-    "id": 418,
-    "title": "Baaghi 2",
-    "year": 2018,
-    "genres": [
-      "Action",
-      "Crime",
-      "Adventure",
-      "Mystery",
-      "Thriller"
-    ],
-    "poster": "Baaghi 2 (2018).jpg"
-  },
-  {
-    "id": 419,
-    "title": "Baaghi 4",
-    "year": 2025,
-    "genres": [
-      "Action",
-      "Thriller"
-    ],
-    "poster": "Baaghi 4 (2025).jpg"
-  },
-  {
-    "id": 420,
+    "id": 393,
     "title": "War 2",
     "year": 2025,
     "genres": [
@@ -4430,18 +4145,7 @@
     "poster": "War 2 (2025).jpg"
   },
   {
-    "id": 421,
-    "title": "War",
-    "year": 2019,
-    "genres": [
-      "Action",
-      "Thriller",
-      "Adventure"
-    ],
-    "poster": "War (2019).jpg"
-  },
-  {
-    "id": 422,
+    "id": 394,
     "title": "Sitaare Zameen Par",
     "year": 2025,
     "genres": [
@@ -4451,18 +4155,18 @@
     "poster": "Sitaare Zameen Par (2025).jpg"
   },
   {
-    "id": 423,
-    "title": "The Raid 2",
-    "year": 2014,
+    "id": 395,
+    "title": "Raid 2",
+    "year": 2025,
     "genres": [
-      "Action",
+      "Drama",
       "Crime",
       "Thriller"
     ],
-    "poster": "The Raid 2 (2014).jpg"
+    "poster": "Raid 2 (2025).jpeg"
   },
   {
-    "id": 424,
+    "id": 396,
     "title": "Housefull 5",
     "year": 2025,
     "genres": [
@@ -4473,7 +4177,7 @@
     "poster": "Housefull 5 (2025).jpg"
   },
   {
-    "id": 425,
+    "id": 397,
     "title": "Chhaava",
     "year": 2025,
     "genres": [
@@ -4484,7 +4188,7 @@
     "poster": "Chhaava (2025).jpg"
   },
   {
-    "id": 426,
+    "id": 398,
     "title": "Kesari Chapter 2: The Untold Story of Jallianwala Bagh",
     "year": 2025,
     "genres": [
@@ -4494,7 +4198,7 @@
     "poster": "Kesari Chapter 2 The Untold Story of Jallianwala Bagh (2025).jpg"
   },
   {
-    "id": 427,
+    "id": 399,
     "title": "Stree 2",
     "year": 2024,
     "genres": [
@@ -4504,29 +4208,7 @@
     "poster": "Stree 2 (2024).jpg"
   },
   {
-    "id": 428,
-    "title": "Chennai Express",
-    "year": 2013,
-    "genres": [
-      "Romance",
-      "Comedy",
-      "Action"
-    ],
-    "poster": "Chennai Express (2013).jpg"
-  },
-  {
-    "id": 429,
-    "title": "Jawan",
-    "year": 2023,
-    "genres": [
-      "Action",
-      "Crime",
-      "Thriller"
-    ],
-    "poster": "Jawan (2023).jpg"
-  },
-  {
-    "id": 430,
+    "id": 400,
     "title": "Fighter",
     "year": 2007,
     "genres": [
@@ -4537,26 +4219,7 @@
     "poster": "Fighter (2007).jpg"
   },
   {
-    "id": 431,
-    "title": "Sholay",
-    "year": 1975,
-    "genres": [
-      "Action"
-    ],
-    "poster": "Sholay (1975).jpg"
-  },
-  {
-    "id": 432,
-    "title": "Budget Padmanabhan",
-    "year": 2000,
-    "genres": [
-      "Family",
-      "Comedy"
-    ],
-    "poster": "Budget Padmanabhan (2000).jpg"
-  },
-  {
-    "id": 433,
+    "id": 401,
     "title": "October",
     "year": 2018,
     "genres": [
@@ -4566,45 +4229,14 @@
     "poster": "October (2018).jpg"
   },
   {
-    "id": 434,
+    "id": 402,
     "title": "PINK",
     "year": 2024,
     "genres": [],
     "poster": "PINK (2024).jpg"
   },
   {
-    "id": 435,
-    "title": "Raid",
-    "year": 2018,
-    "genres": [
-      "Crime",
-      "Drama",
-      "Thriller"
-    ],
-    "poster": "Raid (2018).jpg"
-  },
-  {
-    "id": 436,
-    "title": "Kalank",
-    "year": 2019,
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "poster": "Kalank (2019).jpg"
-  },
-  {
-    "id": 437,
-    "title": "Dhoom 3",
-    "year": 2013,
-    "genres": [
-      "Action",
-      "Crime"
-    ],
-    "poster": "Dhoom 3 (2013).jpg"
-  },
-  {
-    "id": 438,
+    "id": 403,
     "title": "Sanam Teri Kasam",
     "year": 2016,
     "genres": [
@@ -4614,70 +4246,17 @@
     "poster": "Sanam Teri Kasam (2016).jpg"
   },
   {
-    "id": 439,
-    "title": "Yeh Jawaani Hai Deewani",
-    "year": 2013,
-    "genres": [
-      "Romance",
-      "Comedy"
-    ],
-    "poster": "Yeh Jawaani Hai Deewani (2013).jpg"
-  },
-  {
-    "id": 440,
-    "title": "Hindi Medium",
+    "id": 404,
+    "title": "Mom",
     "year": 2017,
     "genres": [
-      "Comedy",
-      "Drama"
-    ],
-    "poster": "Hindi Medium (2017).jpg"
-  },
-  {
-    "id": 441,
-    "title": "Teri Baaton Mein Aisa Uljha Jiya",
-    "year": 2024,
-    "genres": [
-      "Romance",
-      "Comedy",
-      "Science Fiction"
-    ],
-    "poster": "Teri Baaton Mein Aisa Uljha Jiya (2024).jpg"
-  },
-  {
-    "id": 442,
-    "title": "Hera Pheri",
-    "year": 2000,
-    "genres": [
-      "Comedy",
+      "Thriller",
       "Crime"
     ],
-    "poster": "Hera Pheri (2000).jpg"
+    "poster": "Mom (2017).jpeg"
   },
   {
-    "id": 443,
-    "title": "Mom",
-    "year": 1990,
-    "genres": [
-      "Comedy",
-      "Horror"
-    ],
-    "poster": "Mom (1990).jpg"
-  },
-  {
-    "id": 444,
-    "title": "Raazi",
-    "year": 2018,
-    "genres": [
-      "Thriller",
-      "Action",
-      "Drama",
-      "History"
-    ],
-    "poster": "Raazi (2018).jpg"
-  },
-  {
-    "id": 445,
+    "id": 405,
     "title": "OMG 2",
     "year": 2023,
     "genres": [
@@ -4687,18 +4266,7 @@
     "poster": "OMG 2 (2023).jpg"
   },
   {
-    "id": 446,
-    "title": "Love Aaj Kal",
-    "year": 2009,
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ],
-    "poster": "Love Aaj Kal (2009).jpg"
-  },
-  {
-    "id": 447,
+    "id": 406,
     "title": "Hum Saath Saath Hain",
     "year": 1999,
     "genres": [
@@ -4709,7 +4277,7 @@
     "poster": "Hum Saath Saath Hain (1999).jpg"
   },
   {
-    "id": 448,
+    "id": 407,
     "title": "Salaam Bombay!",
     "year": 1988,
     "genres": [
@@ -4719,18 +4287,7 @@
     "poster": "Salaam Bombay! (1988).jpg"
   },
   {
-    "id": 449,
-    "title": "Dil To Pagal Hai",
-    "year": 1997,
-    "genres": [
-      "Drama",
-      "Romance",
-      "Comedy"
-    ],
-    "poster": "Dil To Pagal Hai (1997).jpg"
-  },
-  {
-    "id": 450,
+    "id": 408,
     "title": "Ramaiya Vastavaiya",
     "year": 2013,
     "genres": [
@@ -4738,28 +4295,17 @@
       "Action",
       "Comedy"
     ],
-    "poster": "Ramaiya Vastavaiya (2013).jpg"
+    "poster": "Ramaiya Vastavaiya (2013).jpeg"
   },
   {
-    "id": 451,
+    "id": 409,
     "title": "Ittefaq",
     "year": 2001,
     "genres": [],
     "poster": "Ittefaq (2001).jpg"
   },
   {
-    "id": 452,
-    "title": "Ek Villain Returns",
-    "year": 2022,
-    "genres": [
-      "Action",
-      "Crime",
-      "Thriller"
-    ],
-    "poster": "Ek Villain Returns (2022).jpg"
-  },
-  {
-    "id": 453,
+    "id": 410,
     "title": "Wanted",
     "year": 2008,
     "genres": [
@@ -4770,17 +4316,7 @@
     "poster": "Wanted (2008).jpg"
   },
   {
-    "id": 454,
-    "title": "Paalum Pazhavum",
-    "year": 2024,
-    "genres": [
-      "Comedy",
-      "Romance"
-    ],
-    "poster": "Paalum Pazhavum (2024).jpg"
-  },
-  {
-    "id": 455,
+    "id": 411,
     "title": "Chori Chori Chupke Chupke",
     "year": 2001,
     "genres": [
@@ -4790,40 +4326,7 @@
     "poster": "Chori Chori Chupke Chupke (2001).jpg"
   },
   {
-    "id": 456,
-    "title": "The Fantastic 4: First Steps",
-    "year": 2025,
-    "genres": [
-      "Science Fiction",
-      "Adventure"
-    ],
-    "poster": "The Fantastic 4 First Steps (2025).jpg"
-  },
-  {
-    "id": 457,
-    "title": "Ghajini",
-    "year": 2008,
-    "genres": [
-      "Action",
-      "Romance",
-      "Thriller"
-    ],
-    "poster": "Ghajini (2008).jpg"
-  },
-  {
-    "id": 458,
-    "title": "Good Newwz",
-    "year": 2019,
-    "genres": [
-      "Romance",
-      "Comedy",
-      "Family",
-      "Drama"
-    ],
-    "poster": "Good Newwz (2019).jpg"
-  },
-  {
-    "id": 459,
+    "id": 412,
     "title": "Hate Story 2",
     "year": 2014,
     "genres": [
@@ -4833,17 +4336,7 @@
     "poster": "Hate Story 2 (2014).jpg"
   },
   {
-    "id": 460,
-    "title": "Hate Story 3",
-    "year": 2015,
-    "genres": [
-      "Thriller",
-      "Drama"
-    ],
-    "poster": "Hate Story 3 (2015).jpg"
-  },
-  {
-    "id": 461,
+    "id": 413,
     "title": "Sooryavanshi",
     "year": 2021,
     "genres": [
@@ -4854,19 +4347,7 @@
     "poster": "Sooryavanshi (2021).jpg"
   },
   {
-    "id": 462,
-    "title": "Race",
-    "year": 2008,
-    "genres": [
-      "Drama",
-      "Action",
-      "Thriller",
-      "Crime"
-    ],
-    "poster": "Race (2008).jpg"
-  },
-  {
-    "id": 463,
+    "id": 414,
     "title": "Hungama",
     "year": 2005,
     "genres": [
@@ -4875,17 +4356,18 @@
     "poster": "Hungama (2005).jpg"
   },
   {
-    "id": 464,
+    "id": 415,
     "title": "Animal",
-    "year": 2005,
+    "year": 2023,
     "genres": [
       "Action",
-      "Drama"
+      "Drama",
+      "Crime"
     ],
-    "poster": "Animal (2005).jpg"
+    "poster": "Animal (2023).jpeg"
   },
   {
-    "id": 465,
+    "id": 416,
     "title": "Rocky Aur Rani Kii Prem Kahaani",
     "year": 2023,
     "genres": [
@@ -4897,7 +4379,7 @@
     "poster": "Rocky Aur Rani Kii Prem Kahaani (2023).jpg"
   },
   {
-    "id": 466,
+    "id": 417,
     "title": "Wake Up Sid",
     "year": 2009,
     "genres": [
@@ -4908,29 +4390,7 @@
     "poster": "Wake Up Sid (2009).jpg"
   },
   {
-    "id": 467,
-    "title": "Rang De Basanti",
-    "year": 2006,
-    "genres": [
-      "Comedy",
-      "Drama",
-      "History",
-      "Romance"
-    ],
-    "poster": "Rang De Basanti (2006).jpg"
-  },
-  {
-    "id": 468,
-    "title": "Udta Punjab",
-    "year": 2016,
-    "genres": [
-      "Crime",
-      "Drama"
-    ],
-    "poster": "Udta Punjab (2016).jpg"
-  },
-  {
-    "id": 469,
+    "id": 418,
     "title": "Delhi Belly",
     "year": 2011,
     "genres": [
@@ -4940,7 +4400,7 @@
     "poster": "Delhi Belly (2011).jpg"
   },
   {
-    "id": 470,
+    "id": 419,
     "title": "Baazigar",
     "year": 1972,
     "genres": [
@@ -4952,7 +4412,7 @@
     "poster": "Baazigar (1972).jpg"
   },
   {
-    "id": 471,
+    "id": 420,
     "title": "Masoom",
     "year": 1983,
     "genres": [
@@ -4962,29 +4422,7 @@
     "poster": "Masoom (1983).jpg"
   },
   {
-    "id": 472,
-    "title": "Agneepath",
-    "year": 2012,
-    "genres": [
-      "Action",
-      "Crime",
-      "Drama"
-    ],
-    "poster": "Agneepath (2012).jpg"
-  },
-  {
-    "id": 473,
-    "title": "Judwaa 2",
-    "year": 2017,
-    "genres": [
-      "Action",
-      "Comedy",
-      "Romance"
-    ],
-    "poster": "Judwaa 2 (2017).jpg"
-  },
-  {
-    "id": 474,
+    "id": 421,
     "title": "Khiladi",
     "year": 1992,
     "genres": [
@@ -4992,54 +4430,5 @@
       "Romance"
     ],
     "poster": "Khiladi (1992).jpg"
-  },
-  {
-    "id": 475,
-    "title": "Hum Aapke Hain Koun..!",
-    "year": 1994,
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "poster": "Hum Aapke Hain Koun..! (1994).jpg"
-  },
-  {
-    "id": 476,
-    "title": "Neerja",
-    "year": 2016,
-    "genres": [
-      "Drama",
-      "Thriller"
-    ],
-    "poster": "Neerja (2016).jpg"
-  },
-  {
-    "id": 477,
-    "title": "Secret Superstar",
-    "year": 2017,
-    "genres": [
-      "Drama",
-      "Music"
-    ],
-    "poster": "Secret Superstar (2017).jpg"
-  },
-  {
-    "id": 478,
-    "title": "Sanju Weds Geetha 2",
-    "year": 2024,
-    "genres": [
-      "Romance",
-      "Comedy"
-    ],
-    "poster": "Sanju Weds Geetha 2 (2024).jpg"
-  },
-  {
-    "id": 479,
-    "title": "Happy New Year",
-    "year": 2019,
-    "genres": [
-      "Documentary"
-    ],
-    "poster": "Happy New Year (2019).jpg"
   }
 ]
