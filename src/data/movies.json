@@ -1164,7 +1164,7 @@
   },
   {
     "id": 112,
-    "title": "Like Stars on Earth",
+    "title": "Taare Zameen Par",
     "year": 2007,
     "genres": [
       "Drama"
@@ -4389,12 +4389,12 @@
     "title": "Baazigar",
     "year": 1972,
     "genres": [
-      "Music",
-      "Crime",
-      "Comedy",
-      "Adventure"
+      "Thriller",
+      
+      "Romance"
+      
     ],
-    "poster": "Baazigar (1972).jpg"
+    "poster": "Baazigar (1993).jpg"
   },
   {
     "id": 420,
@@ -4415,5 +4415,46 @@
       "Romance"
     ],
     "poster": "Khiladi (1992).jpg"
+  },
+  {
+    
+    "id": 422,
+    "title": "Kill",
+    "year": 2023,
+    "genres": [
+      "Thriller",
+      "Action"
+    ],
+    "poster": "Kill (2023).jpg"
+  },
+  { 
+    "id": 423,
+    "title": "Mother India",
+    "year": 1957,
+    "genres": [
+      "Family",
+      "Music"
+    ],
+    "poster": "Mother India (1957).jpg"
+  },
+  { 
+    "id": 424,
+    "title": "Kabhi Alvida Naa Kehna",
+    "year": 2006,
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "poster": "Kabhi Alvida Naa Kehna (2006).jpg"
+  },
+  { 
+    "id": 425,
+    "title": "Achhut Kannya",
+    "year": 1936,
+    "genres": [
+      "Romance",
+      "Music"
+    ],
+    "poster": "Achhut Kannya (1936).jpeg"
   }
 ]
