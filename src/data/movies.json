@@ -2289,15 +2289,6 @@
     "poster": "Badhaai Ho (2018).jpg"
   },
   {
-    "id": 216,
-    "title": "The House on Mansfield Street",
-    "year": 2018,
-    "genres": [
-      "Horror"
-    ],
-    "poster": "The House on Mansfield Street (2018).jpg"
-  },
-  {
     "id": 217,
     "title": "Raazi",
     "year": 2018,
@@ -3727,12 +3718,12 @@
   {
     "id": 353,
     "title": "Entertainment",
-    "year": 2015,
+    "year": 2014,
     "genres": [
       "Drama",
       "Comedy"
     ],
-    "poster": "Entertainment (2015).jpg"
+    "poster": "Entertainment (2014).jpg"
   },
   {
     "id": 354,
@@ -3848,9 +3839,10 @@
     "title": "Jersey",
     "year": 2020,
     "genres": [
-      "Comedy"
+      "Story",
+      "Drama"
     ],
-    "poster": "Jersey (2020).jpg"
+    "poster": "Jersey (2022).jpg"
   },
   {
     "id": 366,
@@ -3993,13 +3985,6 @@
       "History"
     ],
     "poster": "The Legend of Bhagat Singh (2002).jpg"
-  },
-  {
-    "id": 380,
-    "title": "Angoor",
-    "year": 2005,
-    "genres": [],
-    "poster": "Angoor (2005).jpg"
   },
   {
     "id": 381,
@@ -4353,7 +4338,7 @@
     "genres": [
       "Comedy"
     ],
-    "poster": "Hungama (2005).jpg"
+    "poster": "Hungama (2003).jpg"
   },
   {
     "id": 415,
@@ -4364,7 +4349,7 @@
       "Drama",
       "Crime"
     ],
-    "poster": "Animal (2023).jpeg"
+    "poster": "Animal (2023).jpg"
   },
   {
     "id": 416,
