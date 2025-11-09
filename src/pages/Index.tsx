@@ -113,9 +113,9 @@ const Index = () => {
             <h2 className="text-2xl font-semibold text-foreground">
               Available Movies
             </h2>
-            <span className="text-sm text-muted-foreground">
-              {filteredMovies.filter(movie => !selectedMovieIds.includes(movie.id)).length} movies
-            </span>
+            <div className="bg-primary text-primary-foreground font-bold px-5 py-2 rounded-full text-lg shadow-lg">
+              600 movies
+            </div>
           </div>
           
           <MovieGrid 
