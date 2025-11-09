@@ -69,7 +69,7 @@ const Index = () => {
         {/* Header */}
         <div className="text-center mb-12">
           <h1 className="text-5xl font-bold bg-gradient-neon bg-clip-text text-transparent mb-4">
-            Movie Survey
+            Movie Survey (600)
           </h1>
           <p className="text-xl text-muted-foreground">
             Select your favorite movies to get personalized recommendations
@@ -109,16 +109,11 @@ const Index = () => {
 
         {/* Movie Grid */}
         <div className="mb-8">
-          <div className="flex items-center justify-between mb-6">
-            <h2 className="text-2xl font-semibold text-foreground">
-              Available Movies
-            </h2>
-            <div className="bg-primary text-primary-foreground font-bold px-5 py-2 rounded-full text-lg shadow-lg">
-              600 movies
-            </div>
-          </div>
+          <h2 className="text-2xl font-semibold text-foreground mb-6">
+            Available Movies
+          </h2>
           
-          <MovieGrid 
+          <MovieGrid
             movies={filteredMovies}
             selectedMovieIds={selectedMovieIds}
             onMovieSelect={handleMovieSelect}
