@@ -21,6 +21,7 @@ const ThankYou = () => {
   const [progress, setProgress] = useState(0);
   const [suggestedMovies, setSuggestedMovies] = useState<Movie[]>([]);
   const [error, setError] = useState<string | null>(null);
+  const [errorDetails, setErrorDetails] = useState<string>("");
 
   useEffect(() => {
     if (movieIds.length === 0) {
@@ -68,6 +69,7 @@ const ThankYou = () => {
       console.error('WebSocket error:', error);
       clearInterval(progressInterval);
       setError("Oops! Our recommendation wizard seems to be taking a coffee break ☕️");
+      setErrorDetails(`Connection failed: Unable to reach ws://10.81.69.33:8765`);
       setLoading(false);
     };
 
@@ -111,6 +113,13 @@ const ThankYou = () => {
             >
               Back to Movies
             </Button>
+            {errorDetails && (
+              <div className="mt-8 p-4 bg-muted/20 rounded-lg border border-border/30">
+                <p className="text-xs text-muted-foreground font-mono break-all">
+                  {errorDetails}
+                </p>
+              </div>
+            )}
           </div>
         </div>
       </div>
