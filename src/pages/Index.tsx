@@ -69,7 +69,7 @@ const Index = () => {
         {/* Header */}
         <div className="text-center mb-12">
           <h1 className="text-5xl font-bold bg-gradient-neon bg-clip-text text-transparent mb-4">
-            Movie Survey (600 movies)
+            Movie Recommendations (600+)
           </h1>
           <p className="text-xl text-muted-foreground">
             Select your favorite movies to get personalized recommendations

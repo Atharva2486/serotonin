@@ -136,12 +136,6 @@ const ThankYou = () => {
           <p className="text-muted-foreground mb-6">
             Based on your selections, here are our suggestions
           </p>
-          <Button
-            onClick={() => navigate("/")}
-            className="bg-gradient-neon hover:shadow-neon transition-all duration-300 text-white font-semibold px-8 py-3"
-          >
-            Go to Home Page
-          </Button>
         </div>
 
         {suggestedMovies.length > 0 && (
@@ -172,6 +166,17 @@ const ThankYou = () => {
                 </div>
               </div>
             ))}
+          </div>
+        )}
+
+        {suggestedMovies.length > 0 && (
+          <div className="text-center mt-8">
+            <Button
+              onClick={() => navigate("/")}
+              className="bg-gradient-neon hover:shadow-neon transition-all duration-300 text-white font-semibold px-8 py-3"
+            >
+              Go to Home Page
+            </Button>
           </div>
         )}
       </div>
