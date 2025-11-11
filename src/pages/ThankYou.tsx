@@ -20,6 +20,7 @@ const ThankYou = () => {
   const [loading, setLoading] = useState(true);
   const [progress, setProgress] = useState(0);
   const [suggestedMovies, setSuggestedMovies] = useState<Movie[]>([]);
+  const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
     if (movieIds.length === 0) {
@@ -66,6 +67,7 @@ const ThankYou = () => {
     ws.onerror = (error) => {
       console.error('WebSocket error:', error);
       clearInterval(progressInterval);
+      setError("Oops! Our recommendation wizard seems to be taking a coffee break ☕️");
       setLoading(false);
     };
 
@@ -87,6 +89,28 @@ const ThankYou = () => {
             <h2 className="text-2xl font-bold text-foreground mb-6">Loading...</h2>
             <Progress value={progress} className="mb-4" />
             <p className="text-muted-foreground">Getting your recommendations</p>
+          </div>
+        </div>
+      </div>
+    );
+  }
+
+  if (error) {
+    return (
+      <div className="min-h-screen bg-gradient-dark flex items-center justify-center">
+        <div className="container mx-auto px-4 py-8 text-center">
+          <div className="max-w-md mx-auto">
+            <h2 className="text-3xl font-bold text-foreground mb-4">🎬 Uh-oh!</h2>
+            <p className="text-muted-foreground mb-6 text-lg">{error}</p>
+            <p className="text-muted-foreground mb-8">
+              Don't worry, it happens to the best of us! Try again in a moment.
+            </p>
+            <Button
+              onClick={() => navigate("/")}
+              className="bg-gradient-neon hover:shadow-neon transition-all duration-300 text-white font-semibold px-8 py-3"
+            >
+              Back to Movies
+            </Button>
           </div>
         </div>
       </div>
