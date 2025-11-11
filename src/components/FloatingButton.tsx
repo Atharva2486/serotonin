@@ -17,35 +17,13 @@ interface FloatingButtonProps {
 export const FloatingButton = ({ selectedMovies }: FloatingButtonProps) => {
   const navigate = useNavigate();
 
-  const handleGetSuggestions = async () => {
+  const handleGetSuggestions = () => {
     if (selectedMovies.length === 0) {
       return;
     }
 
     const movieIds = selectedMovies.map(movie => movie.id);
-    
-    try {
-      const response = await fetch('/api/suggestions', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify({
-          movie_ids: movieIds
-        }),
-      });
-
-      if (response.ok) {
-        const result = await response.json();
-        console.log('Success:', result.message);
-        navigate("/thank-you"); // Redirect to the new thank you page
-      } else {
-        throw new Error('Failed to save suggestions');
-      }
-    } catch (error) {
-      console.error("Error saving suggestions:", error);
-      alert("Sorry, we couldn't save your selections at this time.");
-    }
+    navigate("/thank-you", { state: { movieIds } });
   };
 
   return (
