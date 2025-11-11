@@ -38,7 +38,7 @@ const ThankYou = () => {
     }, 300);
 
     // Establish WebSocket connection
-    const ws = new WebSocket('ws://10.141.148.143:8765'); // Replace with your server URL
+    const ws = new WebSocket('wss://nonperceptive-spined-aidyn.ngrok-free.dev'); // Replace with your server URL
     
     ws.onopen = () => {
       console.log('WebSocket connected');
