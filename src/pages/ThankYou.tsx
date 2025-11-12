@@ -38,7 +38,7 @@ const ThankYou = () => {
     }, 300);
 
     // Establish WebSocket connection
-    const ws = new WebSocket('wss://nonperceptive-spined-aidyn.ngrok-free.dev:8765');
+    const ws = new WebSocket('wss://nonperceptive-spined-aidyn.ngrok-free.dev');
     
     ws.onopen = () => {
       console.log('WebSocket connected');
