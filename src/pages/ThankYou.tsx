@@ -38,7 +38,7 @@ const ThankYou = () => {
     }, 300);
 
     // Establish WebSocket connection
-    const ws = new WebSocket('wss://nonperceptive-spined-aidyn.ngrok-free.dev'); // Replace with your server URL
+    const ws = new WebSocket('wss://nonperceptive-spined-aidyn.ngrok-free.dev:8765');
     
     ws.onopen = () => {
       console.log('WebSocket connected');
@@ -69,7 +69,7 @@ const ThankYou = () => {
       console.error('WebSocket error:', error);
       clearInterval(progressInterval);
       setError("Oops! Our recommendation wizard seems to be taking a coffee break ☕️");
-      setErrorDetails(`Connection failed: Unable to reach ws://10.81.69.33:8765`);
+      setErrorDetails(`Connection failed: Unable to reach wss://nonperceptive-spined-aidyn.ngrok-free.dev:8765`);
       setLoading(false);
     };
 
